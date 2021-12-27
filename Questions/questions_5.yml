@@ -1,0 +1,326 @@
+# Category 5 - Intermediate Micro
+---
+questions:
+- question: As long as the principle of diminishing marginal utility is operating, any increased consumption of a good
+  difficulty: medium
+  correct_answer: lowers marginal utility, but may raise total utility
+  incorrect_answers:
+  - lowers total utility.
+  - produces negative total utility.
+  - lowers marginal utility and, therefore, total utility.
+- question: Among all the combinations of goods attainable by a consumer, the one that maximizes total utility is the one that
+  difficulty: medium
+  correct_answer: equates the marginal utilities per dollar of each good.
+  incorrect_answers:
+  - maximizes the marginal utilities per dollar of each good.
+  - maximizes the marginal utilities per pound (or other physical unit) of each good.
+  - equates the marginal utilities per pound (or other physical unit) of each good.
+- question: A utility contour (or indifference curve) shows all the alternative combinations of two consumption goods that
+  difficulty: medium
+  correct_answer: yield the same total of utility.
+  incorrect_answers: 
+  - can be produced with a given set of resources and technology.
+  - can be purchased with a given budget at given prices.
+  - equate the marginal utilities of these goods and, therefore, make the consumer indifferent between them.
+- question: At any given point on an indifference curve, the absolute value of the slope equals
+  difficulty: medium
+  correct_answer: the marginal rate of substitution.
+  incorrect_answers: 
+  - unity, otherwise there would be no indifference.
+  - the consumer’s marginal utility.
+  - none of the above.
+- question: If a consumer’s marginal rate of substitution equals 2 eggs for 1 hamburger,
+  difficulty: medium
+  correct_answer: the ratio of the consumer’s marginal utility of 1 egg to that of 1 hamburger must equal ½.
+  incorrect_answers:
+  - the consumer’s indifference curve must be positively sloped.
+  - the consumer’s indifference curve must be convex with respect to the origin of the graph.
+  - all of the other answers are true.
+- question: In the presence of declining marginal rates of substitution, consumers who again and again sacrifice a unit of one good cannot remain on their original consumption-indifference curves (that is, they cannot maintain their original levels of welfare) unless they receive as compensation
+  difficulty: medium
+  correct_answer: 3) ever larger units of another good.
+  incorrect_answers:
+  - 1) again and again equal units of another good.
+  - 2) ever smaller units of another good.
+  - either 1), 2), or 3), depending on the tastes of the consumer involved.
+- question: All points on or below a budget constraint
+  difficulty: medium
+  correct_answer: 1) are attainable with the given income.
+  incorrect_answers:
+  - 2) are equally desirable.
+  - 3) represent market basket combinations that exhaust the income available.
+  - are described, in part, by 1), 2), and 3).
+
+- question: In a preference ordering exercise in which two baskets of goods are being considered, it is assumed by indifference theory that the consumer is able to
+  difficulty: medium
+  correct_answer: make no absolute measure of the value of any of the market baskets.
+  incorrect_answers:
+  - measure the amount of pleasure expected from the preferred basket.
+  - say how much more one basket is valued over the other.
+  - calculate only the absolute value of the less desirable basket.
+- question: Indifference curves that intersect would be illogical constructs because
+  difficulty: medium
+  correct_answer: 4) of both 1) and 3).
+  incorrect_answers:
+  - 1) more is better than less.
+  - 2) of diminishing marginal utility.
+  - 3) of the transivity property of indifference theory.
+- question: The marginal rate of substitution between food and shelter for a given point on an indifference curve
+  difficulty: medium
+  correct_answer: is described, in part, by each of the above statements.
+  incorrect_answers:
+  - is equal to the absolute value of the slope of the indifference curve at that point.
+  - is equal to the rate at which the consumer is willing to exchange the two goods in the marketplace.
+  - reflects the relative values the consumer attaches to the two good.
+- question: If a person prefers Budweiser to Schlitz and Schlitz to Pabst, and if they are indifferent between Budweiser and Miller, they must
+  difficulty: medium
+  correct_answer: prefer Miller to Pabst.
+  incorrect_answers:
+  - prefer Schlitz to Miller.
+  - be indifferent between Schlitz and Miller.
+  - be indifferent between Budweiser and Pabst.
+- question: If a market basket is changed by adding more to at least one of the goods, then every consumer will
+  difficulty: medium
+  correct_answer: rank the market basket more highly after the change.
+  incorrect_answers:
+  - rank the market basket more highly before the change.
+  - rank the market basket just as desirable after the change.
+  - be unable to decide whether he prefers the first market basket to the second or the second to the first.
+- question: An indifference curve is
+  difficulty: medium
+  correct_answer: a collection of market baskets that are equally desirable to the consumer.
+  incorrect_answers:
+  - a collection of market baskets that the consumer can buy.
+  - a curve whose elasticity is constant for every price.
+  - a curve which passes through the origin and includes all of the market baskets that the consumer regards as being equivalent
+- question: If A, B, C, and D are any four market baskets, and if the consumer has ranked them so that D is preferred to C, A is not preferred to B, and B is not preferred to C, then
+  difficulty: medium
+  correct_answer: D is preferred to A.
+  incorrect_answers:
+  - A is preferred to C.
+  - A is preferred to D.
+  - B is preferred to D.
+- question: Suppose that a market basket of two goods is changed by adding more to one of the goods and subtracting one unit from the other.
+  difficulty: medium
+  correct_answer: All of the other statements may be true.
+  incorrect_answers:
+  - The consumer will rank the market basket more highly after the change.
+  - The consumer will rank the market basket less highly after the change.
+  - The consumer will be indifferent between the market baskets.
+- question: Which of the following is not an assumption of ordinal utility analysis?
+  difficulty: medium
+  correct_answer: Consumers can measure the total utility received from any given basket of good.
+  incorrect_answers:
+  - Consumers are consistent in their preference.
+  - Consumers are non-satiated with respect to the goods they confront.
+  - All are necessary.
+- question: As long as all prices remain constant, an increase in money income results in 
+  difficulty: medium
+  correct_answer: an increase in the intercept of the budget line.
+  incorrect_answers:
+  - an increase in the slope of the budget line.
+  - a decrease in the slope of the budget line.
+  - a decrease in the intercept of the budget line.
+- question: If the prices of both goods increase by the same percent, the budget line will
+  difficulty: medium
+  correct_answer: shift parallel to the left.
+  incorrect_answers:
+  - shift parallel to the right.
+  - pivot about the x axis.
+  - pivot about the y axis.
+- question: Cardinal utility theory assumes that consumers can
+  difficulty: medium
+  correct_answer: determine the number of utils that can be derived from consuming all goods.
+  incorrect_answers:
+  - rank baskets of goods as to their preference.
+  - determine the marginal rate of substitution between goods.
+  - avoid the law of diminishing marginal utility.
+- question: A consumer buys only jellybeans and wrinkle remover and the more of any one he buys, the lower the marginal utility of that good. In spending all his income, his marginal utility of a pound of jellybeans is 12 and his marginal utility of a jar of wrinkle remover is 15. The price of jellybeans is $8 per pound and the price of wrinkle remover is $11 per jar. For maximum satisfaction, this consumer should
+  difficulty: medium
+  correct_answer: buy less wrinkle remover and more jellybeans.
+  incorrect_answers:
+  - buy more wrinkle remover and fewer jellybeans.
+  - buy more wrinkle remover and the same quantity of jellybeans.
+  - buy the same quantity of wrinkle remover and more jellybeans.
+- question: In 1991, the price of gasoline fell significantly. At the new lower price, gasoline is
+  difficulty: medium
+  correct_answer: relatively more price inelastic.
+  incorrect_answers:
+  - relatively more price elastic.
+  - unaffected in terms of elasticity.
+  - unitarily elastic.
+- question: Price elasticity of demand is defined to be
+  difficulty: medium
+  correct_answer: the percentage change in quantity demanded resulting from a 1 percent change in price.
+  incorrect_answers:
+  - the change in quantity demanded resulting from a 1 cent change in price.
+  - the percentage change in price resulting from a 1 unit change in quantity demanded.
+  - the maximum amount consumers will pay for 1 percent more of a good.
+- question: Suppose that the price elasticity of demand for maple syrup has been estimated at -2. If quantity demanded increased by 10 percent, price must have changed by
+  difficulty: medium
+  correct_answer: 5 percent lower.
+  incorrect_answers:
+  - 5 percent higher.
+  - 10 percent lower.
+  - 10 percent higher.
+- question: Along any straight-line, negatively sloped demand curve
+  difficulty: medium
+  correct_answer: the price elasticity varies, but the slope remains the same.
+  incorrect_answers:
+  - the price elasticity and slope vary.
+  - the slope varies, but the price elasticity remains the same.
+  - the price elasticity and slope remain the same.
+- question: Price elasticity at a given price is not affected by
+  difficulty: medium
+  correct_answer: a change in supply.
+  incorrect_answers:
+  - the price of complements.
+  - the price of substitutes.
+  - a change in tastes.
+- question: The arc elasticity formula is used to estimate elasticity when
+  difficulty: medium
+  correct_answer: there are two observations of price and quantity.
+  incorrect_answers:
+  - the product is thought to be inelastic.
+  - the product is thought to be elastic.
+  - the demand function is known.
+- question: At your favorite watering spot, happy hour prices are less than normal prices for all drinks except wine. No discount prices are offered for wine. You can conclude that
+  difficulty: medium
+  correct_answer: wine drinkers may be price inelastic.
+  incorrect_answers:
+  - wine drinkers may be price elastic.
+  - wine is a substitute and thus sales will rise without a price reduction.
+  - none of the above could be correct
+- question: The price elasticity of demand is the same thing as the negative of the 
+  difficulty: medium
+  correct_answer: reciprocal of slope times the ratio of price to quantity.
+  incorrect_answers:
+  - slope.
+  - reciprocal of slope.
+  - the first derivative of the demand function.
+- question: An elasticity coefficient of -1 means that
+  difficulty: medium
+  correct_answer: the relative changes in price and quantity are equal.
+  incorrect_answers:
+  - the demand curve is perfectly inelastic.
+  - the demand curve is perfectly elastic.
+  - expenditures on the good would increase if prices were reduced.
+- question: If the demand curve for a good is downward sloping, then the good must be
+  difficulty: medium
+  correct_answer: either (1) or (2).
+  incorrect_answers:
+  - 1) normal.
+  - 2) inferior.
+  - 3) Giffen.
+- question: If the demand for gasoline is relatively but not completely price inelastic, then it follows that
+  difficulty: medium
+  correct_answer: a decrease in the price of gasoline would reduce the total amount spent on gasoline.
+  incorrect_answers:
+  - people would be willing to pay any price to drive.
+  - a decrease in the price of gasoline would increase the supply of gasoline.
+  - gasoline consumption could not be cut without rationing.
+- question: The most important determinant of price elasticity is
+  difficulty: medium
+  correct_answer: the availability of substitutes.
+  incorrect_answers:
+  - the slope of the demand curve.
+  - the price of other goods.
+  - the price of complements.
+- question: Which of the following will not be a determinant of the price elasticity of demand for a commodity?
+  difficulty: medium
+  correct_answer: The cost of producing the commodity
+  incorrect_answers:
+  - The absence of substitute for the good.
+  - The presence of substitutes for the good.
+  - The importance of the commodity in consumers’’ budgets.
+- question: In 1976, a frost in Brazil killed over 500 million coffee trees and damaged many more. A civil war in Angola, a major supplier of coffee, cut back its crop. And, an earthquake in Guatemala disrupted the flow of coffee. In spite of these calamities, these three producers reported an increase in export earnings. On the basis of this information, which of the following must be true?
+  difficulty: medium
+  correct_answer: The demand for coffee is price inelastic.
+  incorrect_answers:
+  - The demand for coffee is price elastic.
+  - The supply of coffee is price elastic.
+  - The supply of coffee is price inelastic.
+- question: If the demand for emeralds is elastic, then
+  difficulty: medium
+  correct_answer: a reduction in price will lead to an increase in the expenditure on emeralds.
+  incorrect_answers:
+  - emeralds will have a high price.
+  - the slope of the demand curve for emeralds must be greater than one.
+  - a price reduction will not appreciably affect sales.
+- question: The market demand for a product is found by
+  difficulty: medium
+  correct_answer: horizontally summing the individual demand curves.
+  incorrect_answers:
+  - vertically summing the individual demand curves.
+  - both horizontally and vertically summing the individual demand curves.
+  - none of the above
+- question: The price elasticity of demand will increase with the length of the period to which the demand curve pertains because
+  difficulty: medium
+  correct_answer: consumers will be better able to find substitutes.
+  incorrect_answers:
+  - consumers’ incomes will increase.
+  - the demand curve will shift outward.
+  - all prices will increase over time.
+- question: If the income elasticity of demand is +4
+  difficulty: medium
+  correct_answer: the good is an elastic normal good.
+  incorrect_answers:
+  - the good is an inferior good.
+  - the good is an inelastic normal good.
+  - the good is an elastic inferior good.
+- question: Luxuries are distinguished from necessities by
+  difficulty: medium
+  correct_answer: the high income elasticity of demand for luxuries and the low income elasticity of demand for necessities.
+  incorrect_answers:
+  - the number of substitutes available for each.
+  - the fact that luxuries have high prices and necessities have low ones.
+  - the high price elasticity of demand for luxuries and the low price elasticity of demand for necessities.
+- question: Which of the following is likely to have a negative cross price elasticity of demand?
+  difficulty: medium
+  correct_answer: Big Macs and French fries.
+  incorrect_answers:
+  - Aluminum foil and cellophane.
+  - Jelly beans and licorice sticks.
+  - Bethlehem steel and imported Japanese steel.
+- question: In the early 1940s, Columbia Records, after considerable study, decided to reduce the price of classical records with the result that total expenditure on classical records rose greatly. This would imply that at the time.
+  difficulty: medium
+  correct_answer: the demand for classical records was highly elastic.
+  incorrect_answers:
+  - the demand for classical records was greater than that for popular records.
+  - the demand for classical records was highly inelastic.
+  - the supply of classical records was very inelastic.
+- question: The income elasticity of an inferior good is
+  difficulty: medium
+  correct_answer: negative because higher income leads to a reduction in the amount consumed of the product.
+  incorrect_answers:
+  - negative because as people get richer they increase their purchases of the good by smaller and smaller amounts.
+  - 1 because the increased income offsets the desire to consume less of the good because it is inferior.
+  - greater than 1 because the richer you get, the less you consume of the good.
+- question: The income elasticity of demand
+  difficulty: medium
+  correct_answer: equals the relative change in demand for a good divided by the relative change in the income of consumers, all else being equal.
+  incorrect_answers:
+  - is negative for normal goods.
+  - is positive for inferior goods.
+  - is correctly described by all of the above
+- question: If a good’s income-elasticity-of-demand estimate equaled
+  difficulty: medium
+  correct_answer: -0.50, an economist would call the good an inferior one.
+  incorrect_answers:
+  - 2.46, an economist would call the good a necessity.
+  - 0.37, an economist would call the good a luxury.
+  - -0.50, an economist would call the good a complementary one.
+- question: With Y on the vertical axis and X on the horizontal axis, if the price-consumption curve for X is upward sloping to the right,
+  difficulty: medium
+  correct_answer: the price elasticity of demand for X is relatively inelastic.
+  incorrect_answers:
+  - the price elasticity of demand for X is relatively elastic.
+  - X is an inferior good.
+  - the price elasticity of demand for X is equal to -1.
+- question: With Y on the vertical axis and X on the horizontal axis, if the price-consumption curve for X is downward sloping to the right,
+  difficulty: medium
+  correct_answer: the price elasticity of demand for X is relatively elastic.
+  incorrect_answers:
+  - the price elasticity of demand for X is relatively inelastic.
+  - X is an inferior good.
+  - the price elasticity of demand for X is equal to -1

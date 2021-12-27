@@ -1,0 +1,202 @@
+# Category 4 - Intro Macro
+---
+questions:
+- question: Assume that Jane’s marginal propensity to consume equals 0.8, and that in 2004 Jane spent $36,000 from her disposable income of $40,000. If her disposable income in 2005 increased to $50,000, her consumption spending increased by
+  difficulty: easy
+  correct_answer: $8,000
+  incorrect_answers:
+  - $9,000 
+  - $10,000 
+  - $14,000
+- question: If economic agents perfectly anticipate policy changes and if all prices, including wages, are completely flexible, which of the following will be true in the long run?
+  difficulty: easy
+  correct_answer: There will be no trade-off between inflation and unemployment. 
+  incorrect_answers:
+  - The unemployment rate will be less than the natural rate of unemployment.  
+  - The unemployment rate will be greater than the natural rate of unemployment.  
+  - The price level will be constant. 
+- question: One explanation for the downward slope of the aggregate demand curve is that when the price level increases, which of the following will decrease?
+  difficulty: easy
+  correct_answer: Real value of assets
+  incorrect_answers:
+  - Prices of foreign goods 
+  - Prices of substitute goods 
+  - Expectations of future prices
+- question: Which of the following occurs as investment becomes more responsive to changes in the interest rate?
+  difficulty: easy
+  correct_answer: Monetary policy becomes more effective at changing real gross domestic product. 
+  incorrect_answers:
+  - Fiscal policy becomes more effective at changing real gross domestic product.  
+  - Monetary policy becomes more effective at changing interest rates.  
+  - Fiscal policy becomes more effective at changing interest rates. 
+- question: Under a flexible exchange-rate system, the Indian rupee will appreciate against the Japanese yen when
+  difficulty: easy
+  correct_answer: real interest rates in India increase relative to those in Japan 
+  incorrect_answers:
+  - India’s inflation rate exceeds Japan’s 
+  - India has a trade deficit with Japan  
+  - Japan’s money supply decreases while India’s money supply increases
+- question: Assume that the required reserve ratio is 10 percent, banks keep no excess reserves, and borrowers deposit all loans made by banks. Suppose you have saved $100 in cash at home and decide to deposit it in your checking account. As a result of your deposit, the money supply can increase by a maximum of 
+  difficulty: easy
+  correct_answer: $900
+  incorrect_answers:
+  - $8000 
+  - $1000 
+  - $1100
+- question: Which of the following would be the initial impact on an economy if wages were to increase more than worker productivity? 
+  difficulty: easy
+  correct_answer: The short-run aggregate supply curve would shift to the left, increasing the price level. 
+  incorrect_answers:
+  - There would be no initial impact, since neither the aggregate supply curve nor the aggregate demand curve would shift.
+  - Employment would increase, causing a rightward shift in the aggregate demand curve.
+  - The price level would increase, resulting in excess aggregate supply.
+- question: Which of the following best explains the increase in national income that results from equal increases in government spending and taxes? 
+  difficulty: easy
+  correct_answer: Consumers do not reduce their spending by the full amount of the tax increase.
+  incorrect_answers:
+  - The government purchases some goods that consumers would have purchased on their own anyway.  
+  - Consumers believe all tax cuts are transitory. 
+  - The increase in government spending causes a decrease in investment
+- question: Why might the short-run aggregate supply curve shift to the right in the long run, following a decrease in aggregate demand?
+  difficulty: easy 
+  correct_answer: Workers and firms adjust their expectations of wages and prices downward and they accept lower wages and prices.
+  incorrect_answers:
+  - Workers and firms adjust their expectations of wages and prices downward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they accept lower wages and prices.
+- question: In a small economy, consumption spending in 2018 is $6,000, government spending is $1,200, gross investment is $1,500, exports are $500, and imports are $1,000. What is gross domestic product in 2018?
+  difficulty: easy 
+  correct_answer: $9,700
+  incorrect_answers:
+  - $9,800
+  - $10,800
+  - $8,200
+- question: The drawback to calculating real GDP using base year prices is that
+  difficulty: easy 
+  correct_answer: relative prices change over time and these are not reflected in base year prices, which distorts GDP.
+  incorrect_answers:
+  - real GDP in one year is not comparable to real GDP in another year.
+  - relative prices change over time and these changes are reflected in base year prices.
+  - quality changes are reflected in base year prices.
+- question: In the equation GDP = C + I + G + NX, the G component refers to
+  difficulty: easy 
+  correct_answer: the purchases of final goods and services by all levels of government, excluding transfer payments.
+  incorrect_answers:
+  - federal government expenditures plus all transfer payments.
+  - the taxes and expenditure of all levels of government.
+  - federal government expenditures on transfer payments, such as pensions and unemployment benefits.
+- question: If real GDP in a closed economy is $50 billion, consumption is $30 billion, and government purchases are $15 billion, what is investment?
+  difficulty: easy 
+  correct_answer: $5 billion
+  incorrect_answers:
+  - $30 billion
+  - $40 billion
+  - $70 billion
+- question: ‘Labour productivity’ will increase if the ________ increases and ________.
+  difficulty: easy 
+  correct_answer: quantity of capital per hour worked; technological change occurs
+  incorrect_answers:
+  - quantity of labour per unit of capital; technological change occurs
+  - quantity of capital per hour worked; immigration increases while capital is fixed
+  - quantity of labour per unit of capital; immigration increases while capital is fixed
+- question: Which of the following is true about technological change?
+  difficulty: easy 
+  correct_answer: It will shift up the per-worker production function.
+  incorrect_answers:
+  - It will shift down the per-worker production function.
+  - It will move the economy to a point beneath the per-worker production function.
+  - It will move the economy along a given per-worker production function.
+- question: Maxwell, a German citizen, just purchased 100 shares of stock in Ford Motor Company, an American company. This purchase is an example of
+  difficulty: easy 
+  correct_answer: foreign portfolio investment.
+  incorrect_answers:
+  - foreign direct investment.
+  - foreign public investment.
+  - contractual globalisation.
+- question: The unemployment resulting from workers laid off due to an economic contraction or a recession would be classified as
+  difficulty: easy 
+  correct_answer: cyclical unemployment.
+  incorrect_answers:
+  - frictional unemployment.
+  - structural unemployment.
+  - natural unemployment.
+- question: If the number employed is 11 million, the number unemployed is 0.6 million, and the working-age population is 16 million, then the labour force participation rate is
+  difficulty: easy 
+  correct_answer: 72.5%.
+  incorrect_answers:
+  - 65.0%.
+  - 68.75%.
+  - 71.4%.
+- question: Which of the following is an example of a worker experiencing ‘frictional unemployment’?
+  difficulty: easy 
+  correct_answer: A worker who quits his job at the post office to find more interesting work.
+  incorrect_answers:
+  - A computer programmer who loses her job because it is outsourced to India.
+  - An employee who loses his job because the economy is suffering a recession.
+  - An airline pilot who loses her job because of lack of demand for air travel.
+- question: Assume that the base period for CPI calculations is 1980. In Australia in 2016, around 30% of people accessed the Internet through a broadband connection that did not exist in the 1980s. This potential for bias in the CPI is referred to as ________ bias and results in ________.
+  difficulty: easy 
+  correct_answer: new product; the CPI overestimating the true change in the cost of living
+  incorrect_answers:
+  - outlet; the CPI underestimating the true change in the cost of living
+  - outlet; the CPI overestimating the true change in the cost of living
+  - net product; the CPI underestimating the true change in the cost of living
+- question: If borrowers and lenders anticipate that the rate of inflation will be 5%, but instead it turns out to be 3%, which of the following is likely to occur?
+  difficulty: easy 
+  correct_answer: The real interest rate is higher than expected.
+  incorrect_answers:
+  - Lenders wish that they had made fewer loans.
+  - Borrowers wish that they had borrowed more money.
+  - Insufficient loans will have been made by lenders to maintain profit levels.
+- question: If planned aggregate expenditure is greater than total production, then
+  difficulty: easy 
+  correct_answer: GDP will increase.
+  incorrect_answers:
+  - actual inventories will equal planned inventories.
+  - firms will experience unplanned increase in inventories.
+  - the economy is in equilibrium
+- question: Which of the following leads to an increase in real GDP?
+  difficulty: easy 
+  correct_answer: An increase in the inflation rate in other countries, relative to the inflation in Australia.
+  incorrect_answers:
+  - A decrease in government spending.
+  - An increase in interest rates.
+  - Households have increasingly pessimistic expectations about future income.
+- question: A decrease in the price level ________ real wealth, which causes consumption to ________.
+  difficulty: easy 
+  correct_answer: raises; increase
+  incorrect_answers:
+  - raises; decrease
+  - lowers; decrease
+  - lowers; increase
+- question: If disposable income falls by $60 billion and consumption falls by $30 billion, then the slope of the consumption function is
+  difficulty: easy 
+  correct_answer: 0.5.
+  incorrect_answers:
+  - 1.33.
+  - 0.3.
+  - 0.75.
+- question: How does an increase in the price level in Australia relative to the price level of other countries affect the aggregate demand curve, ceteris paribus?
+  difficulty: easy 
+  correct_answer: This will move the economy up along a stationary aggregate demand curve.
+  incorrect_answers:
+  - This will move the economy down along a stationary aggregate demand curve.
+  - This will shift the aggregate demand curve to the left.
+  - This will shift the aggregate demand curve to the right.
+- question: Workers expect the rate of inflation to fall from 5% to 2% next year. As a result, this should
+  difficulty: easy 
+  correct_answer: shift the short-run aggregate supply curve to the right.
+  incorrect_answers:
+  - shift the short-run aggregate supply curve to the left.
+  - move the economy up along a stationary short-run aggregate supply curve.
+  - move the economy down along a stationary short-run aggregate supply curve.
+- question: Why might the short-run aggregate supply curve shift to the right in the long run, following a decrease in aggregate demand?
+  difficulty: easy 
+  correct_answer: Workers and firms adjust their expectations of wages and prices downward and they accept lower wages and prices.
+  incorrect_answers:
+  - Workers and firms adjust their expectations of wages and prices downward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they accept lower wages and prices.
+  
+  
+ 

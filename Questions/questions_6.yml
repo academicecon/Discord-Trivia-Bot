@@ -1,0 +1,801 @@
+# Category 6 - intermediate macro
+---
+questions:
+- question: A production possibilities set is 
+  difficulty: medium 
+  correct_answer: A technological set which gives various mixes of inputs and the corresponding levels of output that can be feasibly produced from those inputs. 
+  incorrect_answers: 
+  - A mathematical function relating the real wage to labor demand. 
+  - A technological set which gives various levels of output. 
+  - A set of different input and output combinations which maximize profits.
+- question: In a perfectly competitive market, the labor demand curve is obtained by equating 
+  difficulty: medium 
+  correct_answer: The marginal product of labor to the real wage rate. 
+  incorrect_answers: 
+  - The marginal product of labor to the firm's output. 
+  - The marginal rate of substitution of a worker to the real wage rate. 
+  - The marginal rate of substitution of a worker to the marginal product of labor.
+- question: The labor supply curve is positively sloped because 
+  difficulty: medium 
+  correct_answer: The substitution effect of a wage change is bigger than the wealth effect. 
+  incorrect_answers: 
+  - The substitution effect of a wage change is smaller than the wealth effect. 
+  - The substitution effect of a wage change is equal to the wealth effect. 
+  - None of the above.
+- question: Consider a representative household that supplies labor to firms, and consumes the final good produced by the firms. If the government imposes a unit tax t < 1 on the real wage earned by households, how does it affect the labor supply curve? 
+  difficulty: medium 
+  correct_answer: The labor supply curve shifts to the left. 
+  incorrect_answers: 
+  - The labor supply curve shifts to the right. 
+  - The labor supply curve remains as it is. 
+  - None of the above.
+- question: Despite the fact that real wages in the U.S. have increased by a factor of 5 since 1900, the employment rate has remained unchanged. Which of the following can explain this fact? 
+  difficulty: medium 
+  correct_answer: Higher wealth has tended to lower the supply of labor, but at the same time, higher real wages have offset this effect by inducing people to supply more labor. 
+  incorrect_answers: 
+  - The labor supply curve has shifted to the left because people are wealthier today. 
+  - Higher real wages have increased the labor hours people are willing to supply. 
+  - The labor demand curve has shifted to the left because labor productivity has gone down.
+- question: If the real wage is higher than the equilibrium real wage, 
+  difficulty: medium 
+  correct_answer: There are more workers willing to work than firms are willing to hire, and this would push down the real wage. 
+  incorrect_answers: 
+  - Firms are not maximizing profits because the marginal product of labor is not equal to the equilibrium real wage rate. 
+  - There is voluntary unemployment because not everybody is employed. 
+  - There are less workers willing to work than firms are looking for, and this would push down the real wage.
+- question: If the labor supply equation is Ls = 2w, the production function is Y = (log L)/2, and the price of Y is $2, then the equilibrium nominal wage rate is 
+  difficulty: medium 
+  correct_answer: $1 
+  incorrect_answers: 
+  - $0.50 
+  - $2 
+  - $4
+- question: According to Walras' Law, if there are only two markets, 
+  difficulty: medium 
+  correct_answer: If one market is in equilibrium, so is the other market. 
+  incorrect_answers: 
+  - If one market is in equilibrium, the other may or may not be in equilibrium. 
+  - Both markets cannot be simultaneously in equilibrium. 
+  - We need a third market to ensure that all markets are in equilibrium.
+- question: A productivity shock affects the labor market 
+  difficulty: medium 
+  correct_answer: By shifting the labor demand curve. 
+  incorrect_answers: 
+  - By raising the marginal disutility of labor supply. 
+  - By shifting the labor supply curve. 
+  - Does not affect the labor market, only the output market.
+- question: Which of the following can be interpreted as an adverse productivity shock (for the whole economy)? 
+  difficulty: medium 
+  correct_answer: A severe earthquake. 
+  incorrect_answers: 
+  - Discovery of large reserves of natural gas. 
+  - An epidemic which wipes out a sizeable fraction of the labor force. 
+  - A change in household preferences because of which people are less willing to work than before.
+- question: According to the Real Business Cycle Theory, business cycles are mainly caused by 
+  difficulty: medium 
+  correct_answer: Random productivity shocks. 
+  incorrect_answers: 
+  - Random fluctuations of household preferences. 
+  - Increasing use of capital intensive methods of production. 
+  - Fluctuations in investor confidence that affect stock market activity.
+- question: An important difference between the Keynesian and the classical theory of the business cycle is that 
+  difficulty: medium 
+  correct_answer: The classical theory maintains the assumption of market clearing, whereas the Keynesian theory explains business cycles as temporary departures from market equilibrium. 
+  incorrect_answers: 
+  - The classical theory assumes that there is a labor market, whereas the Keynesian theory does not. 
+  - In the Keynesian theory, households do not supply labor, whereas in the classical theory, they do. 
+  - According to the Keynesian theory, business cycles are caused by random productivity shocks, but the classical theory says that cycles are caused by large budget deficits.
+- question: A typical household's demand for money is determined at the point where 
+  difficulty: medium 
+  correct_answer: The marginal benefit of holding money equals its marginal cost. 
+  incorrect_answers: 
+  - The demand for goods equals the supply. 
+  - Real balances are equal to GDP. 
+  - The demand for money balances equals the dollar value of income.
+- question: Holding money imposes an opportunity cost because 
+  difficulty: medium 
+  correct_answer: You forego the consumption (and thus utility) of some other commodities. 
+  incorrect_answers: 
+  - You have to spend it to buy the goods you want. 
+  - By holding money you give up the opportunity to earn wages in the labor. 
+  - if prices go up, the purchasing power of your money balances goes down.
+- question: The propensity to hold money is 
+  difficulty: medium 
+  correct_answer: The fraction of demand for goods and services demanded as real money balances. 
+  incorrect_answers: 
+  - The primary motive of holding money balances. 
+  - The increment in money demand when the price level goes up. 
+  - Determined by equating money demand to money supply.
+- question: According to the classical aggregate demand equation, 
+  difficulty: medium 
+  correct_answer: Prices should go down by 10% if demand for commodities goes up by 10%. 
+  incorrect_answers: 
+  - Prices should go up by 10%, if demand for commodities goes up by 10%. 
+  - Prices remain unchanged even if demand for commodities goes up, unless money supply changes. 
+  - Prices should go down if the propensity to hold money falls.
+- question: In the classical theory of aggregate demand, an increase in the propensity to hold money balances will 
+  difficulty: medium 
+  correct_answer: Shift the aggregate demand curve down. 
+  incorrect_answers: 
+  - Shift the aggregate demand curve up. 
+  - Not affect the aggregate demand curve. 
+  - Will increase the money supply.
+- question: If the propensity to hold money is 2, and money supply is $20, then the classical aggregate demand curve is 
+  difficulty: medium 
+  correct_answer: P = 10/Y_d. 
+  incorrect_answers: 
+  - P = 20Y_d. 
+  - P/Y_d = 10. 
+  - PY_d = 2.
+- question: The Cambridge and Fisher's versions of the quantity theory of money are identical if the relation between the velocity of circulation, V, and the propensity to hold money, k, is 
+  difficulty: hard 
+  correct_answer: V = 1/k. 
+  incorrect_answers: 
+  - V = k. 
+  - V = k^2. 
+  - None of the above.
+- question: Which of the following will provide you enough information to calculate the equilibrium nominal wage in the complete classical model? 
+  difficulty: medium 
+  correct_answer: Setting labor supply equal to demand. and also solving for the equilibrium in the output market. 
+  incorrect_answers: 
+  - Equating labor supply and labor demand. 
+  - Setting the marginal product of labor equal to the nominal wage rate. 
+  - Equating money demand to money supply. and also solving for the equilibrium in the labor market.
+- question: In the complete classical model, if money supply doubles, 
+  difficulty: medium 
+  correct_answer: Prices will double, but output will remain unchanged. 
+  incorrect_answers: 
+  - Prices will remain unchanged but the equilibrium real wage will be higher. 
+  - Output will double, but prices will increase by less than double. 
+  - None of the variables will change, since money is neutral.
+- question: The classical aggregate supply curve is vertical because 
+  difficulty: medium 
+  correct_answer: An increase in prices is accompanied by a corresponding increase in nominal wages so as to keep the real wage, hence employment, unchanged. 
+  incorrect_answers: 
+  - Money supply is held constant. 
+  - The money market is always in equilibrium. 
+  - The labor demand and supply curves both shift up by the same distance when prices increase so that employment (hence output supply) is unaffected.
+- question: If the labor demand function is L_d = 1/w, 10 units of output are produced in equilibrium, and the aggregate demand curve is PY_d = 20, then the equilibrium nominal wage rate is 
+  difficulty: medium 
+  correct_answer: $2. 
+  incorrect_answers: 
+  - $1. 
+  - $1/2 
+  - Cannot tell, not enough information.
+- question: Suppose there is a sudden improvement in productivity, as a result of which labor is uniformly more productive. In the complete classical model, this wil; 
+  difficulty: medium 
+  correct_answer: Increase employment, real wage and output. but decrease prices. 
+  incorrect_answers: 
+  - Increase employment, real wages and prices, but decrease output. 
+  - Increase employment, real wages, prices and output. 
+  - Increase employment, prices and output. but decrease real wages.
+- question: The statement "money is neutral" means that 
+  difficulty: medium 
+  correct_answer: A change in the money supply does not affect real variables. 
+  incorrect_answers: 
+  - A one- percent increase in the money supply increases output by the same percentage. 
+  - An increase in the price level must lower demand for goods and services unless money supply is reduced. 
+  - If the price level increases by $1, then money supply must decrease by $1 too.
+- question: According to the classical explanation of inflation, 
+  difficulty: medium 
+  correct_answer: If money supply increases by 2%, inflation rate will also increase by 2%, all other things remaining unchanged. 
+  incorrect_answers: 
+  - Inflation occurs because of improvements in labor productivity. 
+  - Inflation occurs when the propensity to hold money increases. 
+  - The inflation rate is inversely related to the rate of money creation.
+- question: The classical theory does not explain the behavior of prices during the Great Depression satisfactorily because 
+  difficulty: medium 
+  correct_answer: The theory predicts that prices are countercyclical, whereas during the Depression they were strongly procyclical. 
+  incorrect_answers: 
+  - The theory predicts that prices are acyclical, whereas during the Great Depression they were countercyclical. 
+  - The theory predicts that prices are procyclical, whereas during the Depression they were strongly countercyclical. 
+  - The theory predicts that prices are procyclical, whereas during the Depression they were acyclical.
+- question: If the inflation rate is zero, then 
+  difficulty: medium 
+  correct_answer: The real and nominal interest rates will be the same.  
+  incorrect_answers: 
+  - The real and nominal interest rates will both be zero. 
+  - The real interest rate will be greater than the nominal interest rate. 
+  - The real interest rate will be less than the nominal interest rate.
+- question: If the interest rate were to fall, firms would invest 
+  difficulty: medium 
+  correct_answer: More, because the cost of borrowing goes down. 
+  incorrect_answers: 
+  - Less, because the returns on capital equipment will be lower. 
+  - More, because labor will be more productive now. 
+  - More, because supply of savings will increase.
+- question: If the interest rate is 9%, the present value of $10,900 to be received tomorrow is 
+  difficulty: medium 
+  correct_answer: $10,000. 
+  incorrect_answers: 
+  - $11,881. 
+  - $98,100. 
+  - $10,900.
+- question: If the interest rate is r, then the price of tomorrow's consumption in terms of today's consumption is 
+  difficulty: medium 
+  correct_answer: 1/(1 + r) 
+  incorrect_answers: 
+  - 1/r 
+  - r 
+  - 1+r
+- question: If the investment demand curve is relatively stable, but the saving supply curve unstable, then you would expect 
+  difficulty: medium 
+  correct_answer: Investment and the interest rate to be negatively correlated. 
+  incorrect_answers: 
+  - Savings and investment to be uncorrelated. 
+  - Savings and the interest rate to be positively correlated. 
+  - Savings and the interest rate to be uncorrelated.
+- question: A decrease in productivity will shift the investment demand curve 
+  difficulty: medium 
+  correct_answer: Down, because the same amount of investment will deliver less output in the future. 
+  incorrect_answers: 
+  - Down, because people will want to save and invest less. 
+  - Up, because households will increase their savings to earn as much income from their investments as before. 
+  - Up, because firms will have to step up investment to produce the same amount of output as before.
+- question: If business cycles are caused by productivity shocks, then you would expect business cycle data to exhibit 
+  difficulty: hard 
+  correct_answer: Positive correlation between investment and the interest rate. 
+  incorrect_answers: 
+  - Negative correlation between savings and investment. 
+  - Negative correlation between investment and GDP. 
+  - Zero correlation between savings and the interest rate.
+- question: Suppose Xanadu is an open economy and the interest rate at which the domestic capital market clears is r*. If the equilibrium in the world capital market is r_E > r*, then 
+  difficulty: hard 
+  correct_answer: Xanadu will export capital. 
+  incorrect_answers: 
+  - Xanadu will import capital. 
+  - Xanadu's domestic savings will be exactly equal to domestic investment. 
+  - Xanadu will be a net borrower from the rest of the world.
+- question: Frictional unemployment exists because 
+  difficulty: medium 
+  correct_answer: The process of finding jobs and hiring workers is an ongoing process and may not be fast enough to clear the unemployment pool from the past. 
+  incorrect_answers: 
+  - Workers are laid-off during recessions. 
+  - The wage rate is so high that firms are not willing to hire everyone. 
+  - Firms enter into multi-period contracts with their workers.
+- question: The increased unemployment that occurs during a recession is called 
+  difficulty: medium 
+  correct_answer: Cyclical unemployment. 
+  incorrect_answers: 
+  - Frictional unemployment. 
+  - Structural unemployment. 
+  - Natural rate of unemployment.
+- question: The real wage paid to workers in the classical model is 
+  difficulty: medium 
+  correct_answer: Equal to their marginal products if the labor market is competitive, and there are no turnover costs. 
+  incorrect_answers: 
+  - Not always at the market clearing level in the short-run because of menu costs. 
+  - Fixed in the short-run. 
+  - Equal to the price of output.
+- question: An important determinant of a worker's wage rate, according to the efficiency wage theory, is the 
+  difficulty: medium 
+  correct_answer: Quality of effort put in by the worker. 
+  incorrect_answers: 
+  - The cost of living. 
+  - Total number of applicants for a job. 
+  - Worker's education level.
+- question: The efficiency wage is 
+  difficulty: medium 
+  correct_answer: Higher than the classical market-clearing real wage. 
+  incorrect_answers: 
+  - Equal to the classical market-clearing real wage. 
+  - Lower than the classical market-clearing real wage. 
+  - None of the above.
+- question: The search theory of unemployment 
+  difficulty: medium 
+  correct_answer: Incorporates search and recruiting costs for hiring workers into the classical theory in order to explain unemployment. 
+  incorrect_answers: 
+  - Argues that unemployment exists because nominal wages and prices are rigid in the short run. 
+  - Says that it is not costly for workers to search for jobs. 
+  - Argues that unemployment exists because firms have to search for the most suitable plan of production, hence may delay hiring all the workers it needs.
+- question: Suppose a firm has to incur a fixed cost, C units of output, to look for new workers. If the production function is Y = 2 * L^0.5 and the real wage rate is w, then the firm's demand for labor is 
+  difficulty: hard 
+  correct_answer: L_d = 1 / w^2 
+  incorrect_answers: 
+  - L_d = 1 / (w^0.5) 
+  - L_d = 1 / (w + C)^0.5 
+  - L_d = 1 / (w + C)^2
+- question: The natural rate of unemployment is the rate of unemployment that occurs 
+  difficulty: medium 
+  correct_answer: When the real wage that maximizes firm profits in the presence of turnover costs is above the equilibrium real wage in a labor market with no hiring or firing costs. 
+  incorrect_answers: 
+  - When the nominal wage is fixed in the short-run, but prices adjust smoothly. 
+  - When workers looking for jobs are unable to find any. 
+  - Because there are nominal wage rigidities in the economy.
+- question: The new-Keynesian employment 
+  difficulty: hard 
+  correct_answer: Is below the labor demand curve in the classical economy. 
+  incorrect_answers: 
+  - Is above the labor demand curve in the classical economy. 
+  - Coincides the labor demand curve in the classical economy. 
+  - Cannot tell, not enough information.
+- question: Policies designed to control the natural rate of unemployment are called 
+  difficulty: medium 
+  correct_answer: Structural Policies. 
+  incorrect_answers: 
+  - Fiscal Policies. 
+  - Monetary Policies. 
+  - Economic Policies.
+- question: The unemployment that results from poorly designed labor market institutions is called 
+  difficulty: medium 
+  correct_answer: Structural unemployment. 
+  incorrect_answers: 
+  - Frictional unemployment. 
+  - Natural rate of unemployment. 
+  - Cyclical unemployment.
+- question: The fact that European unemployment is particularly high amongst unskilled workers could be because 
+  difficulty: medium 
+  correct_answer: Newer technologies of production tend to favor skilled over unskilled labor. 
+  incorrect_answers: 
+  - Imports of goods that use unskilled labor have decreased. 
+  - Europe has experienced a massive outflow of low-skilled workers. 
+  - Most workers in Europe are unskilled.
+- question: Which of the following can be considered as evidence in favor of the statement that the labor market is more rigid in Europe than in the U.S.? 
+  difficulty: hard 
+  correct_answer: All of the above. 
+  incorrect_answers: 
+  - An unemployed worker in Europe can claim higher unemployment benefits than an unemployed worker in the U.S. 
+  - It is easier to fire workers in the U.S. than in Europe. 
+  - An unemployed worker in the U.S. can expect to receive only half his working wage as unemployment benefit, while in Europe he can receive as much as three-quarters of his working wage.
+- question: Nominal wage rigidity means that the nominal wage 
+  difficulty: medium 
+  correct_answer: Is slow to adjust to restore equilibrium. 
+  incorrect_answers: 
+  - Exceeds a worker's productivity. 
+  - Is equal to the average price level. 
+  - Always equals the real wage rate.
+- question: The research program that attempts to study the micro-foundations of Keynes’ General Theory is called 
+  difficulty: medium 
+  correct_answer: New-Keynesian theory. 
+  incorrect_answers: 
+  - Classical theory. 
+  - Neo-classical theory. 
+  - Real business cycle theory.
+- question: The menu cost approach to the nominal rigidity leads to a model with 
+  difficulty: hard 
+  correct_answer: Slow nominal price adjustment. 
+  incorrect_answers: 
+  - Fast nominal price adjustment. 
+  - Fast nominal wage adjustment. 
+  - Slow nominal wage adjustment.
+- question: The contract theory approach to the nominal rigidity leads to a model with 
+  difficulty: hard 
+  correct_answer: Slow nominal wage adjustment. 
+  incorrect_answers: 
+  - Fast nominal price adjustment. 
+  - Slow nominal price adjustment. 
+  - Fast nominal wage adjustment.
+- question: The theory of efficiency wages determines 
+  difficulty: medium 
+  correct_answer: Real efficiency wage. 
+  incorrect_answers: 
+  - Nominal efficiency wage. 
+  - The price level. 
+  - The money supply.
+- question: The new-Keynesian theory of aggregate supply begins with the efficiency wage model and adds the assumption that 
+  difficulty: medium 
+  correct_answer: Nominal wage is chosen less frequently than employment. 
+  incorrect_answers: 
+  - Real wage is chosen less frequently than employment. 
+  - Real wage is chosen more frequently than employment. 
+  - Nominal wage is chosen more frequently than employment.
+- question: Sticky wages means that 
+  difficulty: medium 
+  correct_answer: Nominal wage is slow to adjust to restore equilibrium. 
+  incorrect_answers: 
+  - Real wage is slow to adjust to restore equilibrium. 
+  - Employment is slow to adjust to restore equilibrium. 
+  - Output is slow to adjust to restore equilibrium.
+- question: The short-run Keynesian aggregate supply curve is 
+  difficulty: medium 
+  correct_answer: Upward sloping because the nominal wage does not adjust instantly to shocks. 
+  incorrect_answers: 
+  - Vertical because the labor market is always in equilibrium. 
+  - Vertical because unemployment is at its natural rate. 
+  - Upward sloping because more output can only be produced at a higher wage rate.
+- question: According to Okun's Law, 
+  difficulty: hard 
+  correct_answer: If the unemployment rate decreases from 5% to 4%, output would decrease by 3%. 
+  incorrect_answers: 
+  - If the employment rate increases from 54% to 55%, output would increase by 3%. 
+  - If the unemployment rate increases from 4% to 5%, output would decrease by 3%. 
+  - If the employment rate increases from 54% to 55%, output would increase by 3%.
+- question: The Okun’s Law 
+  difficulty: hard 
+  correct_answer: Is consistent with the new-Keynesian theory. 
+  incorrect_answers: 
+  - Is consistent with the classical theory. 
+  - Is consistent with the neo-classical theory. 
+  - None of the above.
+- question: The new-Keynesian theory says that 
+  difficulty: medium 
+  correct_answer: Money is neutral in the long run but not in the short run. 
+  incorrect_answers: 
+  - Money is neutral in the short run, but not in the long run. 
+  - Money is always neutral. 
+  - Money is never neutral.
+- question: Suppose you were to observe a fall in both the nominal wage and the price level, then this evidence 
+  difficulty: hard 
+  correct_answer: Could be consistent with the Keynesian theory if the price level fell by more, so that the real wage increased in the short run. 
+  incorrect_answers: 
+  - Is inconsistent with the new-Keynesian theory because the real wage must have fallen too in the short-run. 
+  - Is consistent with the classical theory since the real wage must have remained unchanged. 
+  - Is inconsistent with the classical theory since there can be no unemployment in the Classical model.
+- question: Money is more liquid than corporate bonds because 
+  difficulty: medium 
+  correct_answer: It is more readily acceptable as a medium of exchange. 
+  incorrect_answers: 
+  - In holding money balances, you forego the interest income you could have earned from bonds. 
+  - Bonds pay a higher rate of return than money. 
+  - People are risk averse.
+- question: Even though money does not pay interest while corporate bonds do, people hold money because 
+  difficulty: medium 
+  correct_answer: Money is more readily acceptable as a medium of exchange than bonds. 
+  incorrect_answers: 
+  - They do not care about the interest income they receive from bonds. 
+  - They are risk averse. 
+  - Having more money increases their net wealth.
+- question: One justification for including real balances directly into a household's utility function is that 
+  difficulty: medium 
+  correct_answer: Money makes it easier for the household to buy and sell goods. 
+  incorrect_answers: 
+  - Money is less liquid than other interest bearing assets. 
+  - Changes in the inflation rate do not affect the household's demand for real balances. 
+  - More liquidity allows firms to smooth the timing of their purchases and sales, making it easier to meet household demands.
+- question: A typical household's demand for money is determined at the point where 
+  difficulty: medium 
+  correct_answer: The marginal benefit of holding money equals its marginal cost. 
+  incorrect_answers: 
+  - Money demand equals money supply. 
+  - The demand for goods equals its supply. 
+  - Real balances are equal to GDP.
+- question: An increase in the money supply would 
+  difficulty: medium 
+  correct_answer: Increase the price of corporate bonds and reduce the interest rate. 
+  incorrect_answers: 
+  - Increase the price of corporate bonds and raise the interest rate. 
+  - Decrease the price of corporate bonds and raise the interest rate. 
+  - Decrease the price of corporate bonds and reduce the interest rate.
+- question: The money demand function is inversely related to the nominal interest rate because an increase in the interest rate 
+  difficulty: medium 
+  correct_answer: Increases the opportunity cost of holding money and makes bonds more attractive assets. 
+  incorrect_answers: 
+  - Reduces the liquidity of money. 
+  - Reduces the velocity of circulation of money. 
+  - Reduces investment, hence GDP, so that people have less income.
+- question: In the classical model with a change in money supply, which variable adjusts immediately to restore the equality of the quantity demanded of money to the quantity supplied? 
+  difficulty: hard 
+  correct_answer: The price level. 
+  incorrect_answers: 
+  - Income. 
+  - The interest rate. 
+  - Investment.
+- question: In the Keynesian model with a change in money supply, which variable adjusts immediately to restore the equality of the quantity demanded of money to the quantity supplied? 
+  difficulty: hard 
+  correct_answer: The interest rate. 
+  incorrect_answers: 
+  - Income. 
+  - The price level. 
+  - Investment.
+- question: Which of the following is a unit in which the velocity of circulation of money can be measured? 
+  difficulty: medium 
+  correct_answer: Per year. 
+  incorrect_answers: 
+  - Year. 
+  - Dollar. 
+  - Per dollar.
+- question: The LM curve is upward sloping because an increase in output demand will 
+  difficulty: medium 
+  correct_answer: Raise the demand for money, and hence drive up the nominal interest rate required to clear the asset markets. 
+  incorrect_answers: 
+  - Increase investment expenditure and hence drive up the interest rate. 
+  - Increase the price level, and hence increase the interest rate at which the money market clears. 
+  - Increase employment, raise the wage rate, hence raise money demand at every interest rate so that the interest rate that clears the money market rises.
+- question: An increase in the money supply will 
+  difficulty: medium 
+  correct_answer: Shift the LM curve to the right. 
+  incorrect_answers: 
+  - Make the LM curve steeper. 
+  - Shift the LM curve to the left. 
+  - Not affect the LM curve at all.
+- question: If the price level falls, the 
+  difficulty: medium 
+  correct_answer: LM curve will shift to the right. 
+  incorrect_answers: 
+  - LM curve will remain unchanged. 
+  - LM curve will shift to the left. 
+  - Velocity of circulation of money will increase.
+- question: Changes in which of the following variables will shift the LM curve to the left? 
+  difficulty: hard 
+  correct_answer: A 10% decrease in money supply and a 5% decrease in the price level. 
+  incorrect_answers: 
+  - A 10% increase in money supply. 
+  - A 5% decrease in the price level. 
+  - A 10% increase in money supply and a 10% increase in the price level.
+- question: If the introduction of ATM's reduces the demand for money at every income level, 
+  difficulty: hard 
+  correct_answer: The interest rate that clears the money market will fall. 
+  incorrect_answers: 
+  - The interest rate that clears the money market will rise. 
+  - The LM curve will shift to the left. 
+  - The price of corporate bonds must fall.
+- question: The utility theory of money predicts that the propensity to hold money is usually 
+  difficulty: hard 
+  correct_answer: Inversely related to the nominal interest rate. 
+  incorrect_answers: 
+  - Positively related to the nominal interest rate. 
+  - Independent of the nominal interest rate. 
+  - Positively related to nominal GDP.
+- question: Which of the following is not one of the functions that money has? 
+  difficulty: medium 
+  correct_answer: None of the above. 
+  incorrect_answers: 
+  - Store of value. 
+  - Medium of exchange. 
+  - Unit of account.
+- question: Banks keep reserves 
+  difficulty: medium 
+  correct_answer: All of the above. 
+  incorrect_answers: 
+  - Because they are required to do so by law. 
+  - To meet withdrawal demands. 
+  - In the form of vault cash and accounts with the Fed.
+- question: A dollar bill is fiat money because 
+  difficulty: medium 
+  correct_answer: It is backed by the rule of law and not by any physical commodity. 
+  incorrect_answers: 
+  - It can be redeemed for an equivalent amount of gold. 
+  - It can be used to purchase gold. 
+  - It can be deposited with banks.
+- question: The statement that the “Federal Reserve System acts as a lender of last resort to the banking system” implies that 
+  difficulty: medium 
+  correct_answer: If a commercial bank is short of reserves, the Federal Reserve will lend money to bail it out. 
+  incorrect_answers: 
+  - The Fed mandates that commercial banks must keep a minimum fraction of their deposits in the form of reserves. 
+  - The Federal Open Market Committee controls the money supply through open market operations. 
+  - The Fed willingly holds Treasury bills floated to finance the budget deficit.
+- question: The total money supply consists of 
+  difficulty: medium 
+  correct_answer: Commercial bank deposits and currency in circulation. 
+  incorrect_answers: 
+  - Reserves and currency in circulation. 
+  - Reserves and demand deposits. 
+  - The monetary base, net of bank reserves.
+- question: The monetary base consists of 
+  difficulty: medium 
+  correct_answer: Reserves and currency in circulation. 
+  incorrect_answers: 
+  - Demand deposits and currency in the hands of the public. 
+  - Reserves and demand deposits. 
+  - Total money supply net of demand deposits.
+- question: If the reserve to deposit ratio increases, the money multiplier will 
+  difficulty: medium 
+  correct_answer: Decrease. 
+  incorrect_answers: 
+  - Not change, since the monetary base remains unaffected. 
+  - Remain unchanged, because money supply is unaffected. 
+  - Increase.
+- question: An increase in the reserve to deposit requirement will 
+  difficulty: medium 
+  correct_answer: Decrease the money supply. 
+  incorrect_answers: 
+  - Not affect the money supply. 
+  - Increase money demand. 
+  - Make the LM curve flatter.
+- question: If the currency to deposit ratio increases, the money multiplier will 
+  difficulty: medium 
+  correct_answer: Decrease. 
+  incorrect_answers: 
+  - Increase. 
+  - Remain unchanged. 
+  - Not affect the money supply.
+- question: If the Fed sells government bonds on the open market, it 
+  difficulty: medium 
+  correct_answer: Reduces the money supply. 
+  incorrect_answers: 
+  - Increases the money supply. 
+  - Reduces the interest rate. 
+  - Increases households' demand for money.
+- question: If the Fed purchases British Pound Sterling on the open market, then 
+  difficulty: medium 
+  correct_answer: The LM curve shifts to the right. 
+  incorrect_answers: 
+  - The money supply goes down. 
+  - The LM curve becomes flatter. 
+  - Interest rate must increase.
+- question: If the money multiplier depends positively upon the interest rate, then 
+  difficulty: hard 
+  correct_answer: The LM curve will be flatter than otherwise. 
+  incorrect_answers: 
+  - The LM curve will be steeper than otherwise. 
+  - The money supply curve will be downward sloping. 
+  - The money demand function will be flatter than otherwise.
+- question: If the Fed follows a monetary policy where it maintains a fixed interest rate, then 
+  difficulty: medium 
+  correct_answer: If GDP goes up, the Fed has to increase the money supply. 
+  incorrect_answers: 
+  - The LM curve will be downward sloping. 
+  - The LM curve will be vertical. 
+  - If GDP goes up, money demand must decrease.
+- question: In the classical theory, employment is 
+  difficulty: medium 
+  correct_answer: At its natural rate. 
+  incorrect_answers: 
+  - Above its natural rate. 
+  - Below its natural rate. 
+  - None of the above.
+- question: In the classical theory, the quantity of money demand is 
+  difficulty: medium 
+  correct_answer: Independent of the interest rate. 
+  incorrect_answers: 
+  - Positively related to the interest rate. 
+  - Negatively related to the interest rate. 
+  - None of the above.
+- question: In the Keynesian theory, 
+  difficulty: medium 
+  correct_answer: None of the above. 
+  incorrect_answers: 
+  - Saving is higher than investment. 
+  - Saving is lower than investment. 
+  - Saving equals investment.
+- question: If the nominal interest rate is 5%, and the expected inflation rate is 2%, then 
+  difficulty: hard 
+  correct_answer: The ex ante real interest rate is 3%. 
+  incorrect_answers: 
+  - The expected real interest rate is 7%. 
+  - The realized real interest rate is 7%. 
+  - The ex post real interest rate is 3%.
+- question: In the classical theory, the equilibrium real interest rate is determined by the equality of 
+  difficulty: medium 
+  correct_answer: Saving and investment. 
+  incorrect_answers: 
+  - Money demand and money supply. 
+  - Consumption and income. 
+  - Consumption and investment.
+- question: If households expect inflation to go up in the future, 
+  difficulty: hard 
+  correct_answer: The supply of savings curve will shift up. 
+  incorrect_answers: 
+  - The investment demand of firms will move down. 
+  - The investment demand of firms will shift to the left. 
+  - The supply of savings curve will move down.
+- question: Households expect inflation to go down in the future, but firms expect it to go up. Given these expectations, 
+  difficulty: hard 
+  correct_answer: The equilibrium supply of savings must increase. 
+  incorrect_answers: 
+  - The equilibrium nominal interest rate must increase. 
+  - The equilibrium nominal interest rate must decrease. 
+  - The equilibrium demand for investment may decrease.
+- question: The IS curve plots the nominal interest rate against income for which 
+  difficulty: medium 
+  correct_answer: The capital market is in equilibrium. 
+  incorrect_answers: 
+  - The money market is in equilibrium. 
+  - The bonds market is in equilibrium. 
+  - The housing market is in equilibrium.
+- question: A decrease in government transfers leaving government expenditure and taxes unchanged will 
+  difficulty: hard 
+  correct_answer: Decrease the equilibrium nominal interest rate for certain. 
+  incorrect_answers: 
+  - Increase the equilibrium nominal interest rate for certain. 
+  - Not affect the equilibrium amount of investment for certain. 
+  - Shift the supply of savings curve down.
+- question: If investment became more sensitive to the interest rate, then 
+  difficulty: medium 
+  correct_answer: The IS curve will be flatter. 
+  incorrect_answers: 
+  - The IS curve will be steeper. 
+  - The LM curve will be steeper. 
+  - The LM curve will be flatter.
+- question: If the supply of savings curve does not depend upon the interest rate, then the IS curve is 
+  difficulty: medium 
+  correct_answer: Still downward sloping. 
+  incorrect_answers: 
+  - Vertical. 
+  - Flat. 
+  - Upward sloping.
+- question: In a closed economy, the IS curve represents combinations of the nominal interest rate and GDP such that 
+  difficulty: medium 
+  correct_answer: Private investment is equal to the sum of private plus public saving. 
+  incorrect_answers: 
+  - Private investment is equal to the difference between public and private saving. 
+  - Private saving is equal to the sum of private plus public investment. 
+  - Private plus public saving is equal to the domestic money supply.
+- question: In the classical theory, aggregate demand depends only on 
+  difficulty: medium 
+  correct_answer: The money supply. 
+  incorrect_answers: 
+  - The fiscal policy. 
+  - The expectations of households. 
+  - The expectations of firms.
+- question: The Keynesian theory of aggregate demand is based on the fact that 
+  difficulty: medium 
+  correct_answer: The capital and money markets are simultaneously in equilibrium. 
+  incorrect_answers: 
+  - The capital market is in equilibrium. 
+  - The money market is in equilibrium. 
+  - None of the above.
+- question: An IS-LM equilibrium determines 
+  difficulty: medium 
+  correct_answer: The equilibrium interest rate and level of income simultaneously. 
+  incorrect_answers: 
+  - The equilibrium interest rate. 
+  - The equilibrium level of income. 
+  - The equilibrium priece level.
+- question: The position of the Keynesian aggregate demand curve depends on 
+  difficulty: medium 
+  correct_answer: All of the above. 
+  incorrect_answers: 
+  - The money supply. 
+  - The fiscal policy. 
+  - The expectations of households and firms.
+- question: If investment becomes more sensitive to the interest rate, then 
+  difficulty: hard 
+  correct_answer: The IS curve and AD curves will both be flatter. 
+  incorrect_answers: 
+  - The IS curve will be steeper but the AD curve flatter. 
+  - The IS curve will be flatter but the AD curve steeper. 
+  - The IS and AD curves will both be steeper.
+- question: If the demand for money does not depend upon income, then 
+  difficulty: medium 
+  correct_answer: The LM curve will be flat. 
+  incorrect_answers: 
+  - The LM curve will be vertical. 
+  - The LM curve will be flatter. 
+  - The IS curve will be vertical.
+- question: If a given change in the interest rate changes money demand by less than before, then 
+  difficulty: hard 
+  correct_answer: The LM curve will be steeper, but the AD curve flatter. 
+  incorrect_answers: 
+  - The LM curve will be flatter, but the AD curve steeper. 
+  - Both the LM and AD curves will be steeper. 
+  - Both the LM and AD curves will be flatter.
+- question: If money demand does not depend upon income, then 
+  difficulty: medium 
+  correct_answer: Monetary policy will not have any effect on the economy. 
+  incorrect_answers: 
+  - Fiscal policy will have any effect on the economy. 
+  - Neither fiscal nor monetary policy can change anything in the economy. 
+  - Both fiscal and monetary policies can change anything in the economy.
+- question: If current prices do not change but everyone starts expecting the same lower future inflation, then 
+  difficulty: hard 
+  correct_answer: Both the IS and AD curves shift to the left. 
+  incorrect_answers: 
+  - The IS curve shifts to the left, but the AD curve shifts to the right. 
+  - Both the IS and AD curves shift to the right. 
+  - The IS curve shifts to the right, but the AD curve shifts to the left.
+- question: If the government were to increase money supply and at the same time increase its spending, then 
+  difficulty: medium 
+  correct_answer: The effect on interest rate will be ambiguous, but GDP will increase. 
+  incorrect_answers: 
+  - Both GDP and interest rate will decrease. 
+  - GDP will increase but interest rate fall. 
+  - The effect on GDP and interest rate will be ambiguous.
+- question: Suppose the government wants to boost up aggregate demand without changing the interest rate. Which of the following policy mixes can deliver the desired result? 
+  difficulty: medium 
+  correct_answer: Increase government spending and money supply. 
+  incorrect_answers: 
+  - Increase government spending but reduce money supply. 
+  - Increase taxes and money supply. 
+  - Reduce transfers made to private citizens, and increase money supply.
+- question: If business cycles are caused by shocks to the AD curve in the Keynesian model, you would expect to observe 
+  difficulty: hard 
+  correct_answer: Procyclical prices and interest rates. 
+  incorrect_answers: 
+  - Procyclical prices but countercyclical interest rates. 
+  - Countercyclical prices but procyclical interest rates. 
+  - Countercyclical prices and interest rates.
+- question: If business cycles are caused by supply shocks in the Keynesian model, you would expect to observe 
+  difficulty: hard 
+  correct_answer: Countercyclical prices and a downward movement along the aggregate demand curve. 
+  incorrect_answers: 
+  - Procyclical prices and rightward shift of the aggregate demand curve. 
+  - Countercyclical prices and leftward shift of the aggregate demand curve. 
+  - Procyclical prices and a downward movement along the aggregate demand curve.
+- question: In the Keynesian theory of aggregate demand, expectations are 
+  difficulty: medium 
+  correct_answer: Taken as given. 
+  incorrect_answers: 
+  - Endogenously determined. 
+  - Not part of the model. 
+  - None of the above.

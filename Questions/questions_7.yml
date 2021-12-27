@@ -1,0 +1,445 @@
+# Category 7 - Econometrics
+---
+questions:
+- question: The probability of an outcome
+  difficulty: medium
+  correct_answer: is the proportion of times that th eoutcome occurs in the long run.
+  incorrect_answers:
+  - equals the sample mean divided by the samle standard deviation.
+  - is the number of times that the outcome occurs in the long run.
+  - equals M * N, where M is the number of occurences and N is the population size.
+- question: The slope estimator, Beta1, has a smaller standard error, other things equal, if
+  difficulty: medium
+  correct_answer: there is more variation in the explanatory variable, X.
+  incorrect_answers:
+  - the sample size is smaller.
+  - there is a large variance in the error term, u.
+  - the intercept, Beta0, is small.
+- question: Imperfect multcollinearity
+  difficulty: medium
+  correct_answer: means that two or more of the regressors are highly correlated.
+  incorrect_answers:
+  - is not relevant to the field of economics and business administration.
+  - means that the least squares estimator of the slope is biased.
+  - only occurs in the study of finance.
+- question: The sample regression line estimated by OLS
+  difficulty: medium
+  correct_answer: will always run through the point (Xbar, Ybar).
+  incorrect_answers:
+  - will always have a slope smaller than the intercept.
+  - cannot have a slope of zero.
+  - is exactly the same as the population regression line.
+- question: In a two regressor regression model, if you exclude one of the relevant variables then
+  difficulty: medium
+  correct_answer: you are no longer controlling for the influence of the other variable.
+  incorrect_answers:
+  - OLS is no longer unbiased, but still consistent.
+  - it is no longer reasonable to assume that the errors are homoskedastic.
+  - the OLS estimator no longer exists.
+- question: The cumulative probability distribution shows the probabilty
+  difficulty: medium
+  correct_answer: that a random variable is less than or equal to a particular value.
+  incorrect_answers:
+  - of all possible events occuring.
+  - that a random variable takes on a particular value given that another event has happened.
+  - of two or more events occuring at once.
+- question: To decide whether the slope coefficient indicates a "large" effect of X on Y, you look at the
+  difficulty: medium
+  correct_answer: economic importance implied by the slope coefficient.
+  incorrect_answers:
+  - value of the intercept.
+  - regression R^2.
+  - size of the slope coefficient.
+- question: E(u_i|X_i) = 0 says that
+  difficulty: medium
+  correct_answer: the conditional distribution of the error given the explanatory variable has a zero mean.
+  incorrect_answers:
+  - the samle regression function residuals are unrelated to the explanatory variable.
+  - the sample mean of the Xs is much larger than the sample mean of the errors.
+  - dividing the error by the explanatory variable results in a zero (on average).
+- question: Changing the units of measurement, E.G. measurein testscores in 100s, will do all of the following EXCEPT for changing the
+  difficulty: medium
+  correct_answer: interpretation of the effect that a change in X has on the change in Y
+  incorrect_answers:
+  - residuals
+  - numerical value of the intercept
+  - numberical value of the slope estimate
+- question:  Ommited variable bias
+  difficulty: medium
+  correct_answer: exists if the omitted variable is correlated with the included regressor and is a determinant of the dependent variable.
+  incorrect_answers:
+  - exists if the omitted variable is correlated with the included regressor but is not a determinant of the dependent variable.
+  - will always be present as long as the regression R^2 < 1
+  - is always there but is negligible in almost all economic examples.
+- question: When there are omitted variables in the regression, which are determinants of the dependent variable, then
+  difficulty: medium
+  correct_answer: the OLS estimator is biased if the omitted variable is correlated with the included variable.
+  incorrect_answers:
+  - this will always bias the OLS estimator of the included variable.
+  - this has no effec ton the extimator of your included variable because the other variable is not included.
+  - you cannot measure the effect of the omitted variable, but the estimator of your included variables(s) is (are) unaffected.
+- question: "Using 143 observations, assume that you had estimated a simple regression function and that your estimate for the slope was 0.04, with a standard error 0.01.  You want to test whether or not the estimate is statistically significant. /n
+Which of the following decisions is the only correct one?"
+  difficulty: medium
+  correct_answer: The slope is statistically significant since it is four standard errors away from zero.
+  incorrect_answers:
+  - You decide that the coefficient is small and hence most likely is zero in the population.
+  - Since the slope is very small, so much be the Regression R^2.
+  - The response of Y given a change in X must be economically important since it is statistically signficant.
+- question: Imperfect mluticollinearity
+  difficulty: medium
+  correct_answer: implies that it will be difficult to estimate precisely one or more of th epartial effects using the data at hand.
+  incorrect_answers:
+  - suggests that a standard spreadsheet program does not have enough power to estimate the multiple regression model.
+  - mean sthat you cannot estimate the effect of at least one of the Xs on Y.
+  - violates one of the four Least Squares assumpptions in the multiple regression model.
+- question: All of the following assumptions are required for the OLS estimate of the regression slope to represent a causal effect, with the exception of
+  difficulty: medium
+  correct_answer: The regression R^2 is high.
+  incorrect_answers:
+  - E(u_i|X) = 0
+  - (X_i, Y_i), i=1, ...., n are i.i.d.
+  - X and Y have a finite kurtosis.
+- question: the correlation coefficient
+  difficulty: medium
+  correct_answer: is a measure of linear association.
+  incorrect_answers:
+  - lies between zero and one.
+  - is close to one if X causes Y.
+  - takes on a high value if you have a strong nonlinear relationship.
+- question: The OLS residuals, u-hat_i, are sample counterpars of the population
+  difficulty: medium
+  correct_answer: errors
+  incorrect_answers:
+  - regression function intercept
+  - repression function slope
+  - regression function's predicted values
+- question: an estimate is
+  difficulty: medium
+  correct_answer: a nonrandom number
+  incorrect_answers:
+  - another word for estimator
+  - efficient if it has the smallest variance possible.
+  - unbiased if its expected value equals the population value.
+- question: a low regression R^2 means that
+  difficulty: medium
+  correct_answer: there are other important factors that influence the left-hand variable.
+  incorrect_answers:
+  - tells you what the other factors influencing the left-hand variable are.
+  - the regression is bad.
+  - the SSR is low relative to the total variation in Y.
+- question: a Type II error
+  difficulty: medium
+  correct_answer: is the error you make when not rejecting the null hypothesis when it is false.
+  incorrect_answers:
+  - is the error you make when choosing type II or type I.
+  - is typically smaller than the type I error
+  - cannot be calculated when the alternative hypothesis contains an "=".
+- question: Analyzing the effect of minimum wage change son teenage employment across the 48 contiguous US states from 1980 to 2004 is an example of using
+  difficulty: medium
+  correct_answer: panel data.
+  incorrect_answers:
+  - cross-sectional data.
+  - having a treatment group vs. a control group, since only teenagers receive minimum wages.
+  - time series data.
+- question: Imagine you regressed earnings of individual son a constant, a binary variable ("male") which take son the value of 1 for males and is 0 otherwise, and another binary variable ("female") which takes on the value of 1 for females and is 0 otherwise.  Because females typically earn less than males, you would expect
+  difficulty: medium
+  correct_answer: none of the OLS estimators to exist because there is perfect multicollinearitiy.
+  incorrect_answers:
+  - both coefficients to be the same distance from the constant, one above and the other below.
+  - the coefficient for Male to have a positive sign, and for Female a negative sign.
+  - this to yield a difference in means statistic.
+- question: Analyzing the behavior of unemployment rates across US states in March of 2006 is an example of using
+  difficulty: medium
+  correct_answer: cross-sectional data.
+  incorrect_answers:
+  - panel data.
+  - time series data.
+  - experimental data.
+- question: In a multiple regression framework, the slope coefficient on the regressor X_2i
+  difficulty: medium
+  correct_answer: is measured in the units of Y_i divided by units of X_2i
+  incorrect_answers:
+  - is usually positive.
+  - is larger than the coefficient on X_1i.
+  - takes into account the scale of the error term.
+- question: in the multiple regression model, the adjusted R^2, (R_bar)^2
+  difficulty: medium
+  correct_answer: will never be greater than the regression R^2
+  incorrect_answers:
+  - equals the square of the correlation coefficient r.
+  - cannot decrease when an additinoal explanatory variable is added.
+  - cannot be negative.
+- question: the mean and variance of a Bernoulli random variable are given as
+  difficulty: medium
+  correct_answer: p and p(1 - p)
+  incorrect_answers:
+  - p and sqrt(p(1 - p))
+  - cannot be calculated
+  - np and np(1 - p)
+- question: Interpreting the intercept in a sample regression function is
+  difficulty: medium
+  correct_answer: reasonable if your sample contains values of X_i around the origin
+  incorrect_answers:
+  - reasonable because under certain conditions the estimator is BLUE
+  - not reasonable because economists are interested in the effect of a change in X on the change in Y.
+  - not reasonable because you never observe values of the explanatory variables around the origin
+- question: one of the least squares assumptionsin the multiple regression model is that you have random variables which are "i.i.d.".  This stands for
+  difficulty: medium
+  correct_answer: independently and identically distributed
+  incorrect_answers:
+  - identically initiated deltas (as in changes)
+  - initially indeterminate differences
+  - irregularly integrated dichotomies
+- question: In which of the following scenarios does perfect multicollinearity occur?
+  difficulty: medium
+  correct_answer: Perfect multi collinearity occurs when one of the regressors is a perfect linear function of the other regressors.
+  incorrect_answers:
+  - Perfect multocollinearity occurs when the regressors are indendently and identically distributed.
+  - Perfect multicollinearity occurs when the value of kurtosis for the dependent and explanatory variables is infinite.
+  - Perfect multicollinearity occurs when one of the regressors is an exponential function of the other regressors.
+- question: Why is it impossible to compute OLS estimators in the presence of perfect multicollinearity?
+  difficulty: medium
+  correct_answer: It is impossible to compute OLS estimators in the presence of perfect multicollinearity because it produces division by 0.
+  incorrect_answers:
+  - It is impossible to compute OLS estimators in the presence of perfect multicollinearity because adding a new explanatory variable does not increase fit of the  model.
+  - It is impossible to compute OLS estimators in the presence of perfect multicollinearity because it produces multiplication by 0.
+  - It is impossible to compute OLS estimators in the presence of perfect multicollinearity because the conditional distribution of the error term has a nonzero mean.
+- question: To obtain the slope estimator using the least squares principle, you divide the
+  difficulty: medium
+  correct_answer: sample covariance of X and Y by the sample variance of X.
+  incorrect_answers:
+  - sample covariance of X and Y by the sample variance of Y.
+  - sample variance of X by the sample variance of Y.
+  - sample variance of X by the sample covariance of X and Y.
+- question: the expected value of a discrete random variable
+  difficulty: medium
+  correct_answer: is computed as a weighted average of the possible outcome of that random variable, where the weights are the probabilitie sof that outcome.
+  incorrect_answers:
+  - equals the population median.
+  - is the outcome that is most likely to occur.
+  - can be found by determining the 50% value in the c.d.f.
+- question: When the estimated slope coefficient in the simple regression model, B-hat_1, is zero, then
+  difficulty: medium
+  correct_answer: R^2 = 0
+  incorrect_answers:
+  - 0 < R^2 < 1
+  - R^2 > (SSR / TSS)
+  - R^2 == Y-bar
+- question: The OLS residuals
+  difficulty: medium
+  correct_answer: can be calculated by subtracting the fitted values from the actual values.
+  incorrect_answers:
+  - are unkown since we do not know the population regression function.
+  - can be calculated using the errors from the regression function.
+  - should not be used in practice since they indicate that your regression does not run through all your observations.
+- question: Multiplying the dependent variable by 100 and the explanatory variable by 100,000 leaves the
+  difficulty: medium
+  correct_answer: regression R^2 the same.
+  incorrect_answers:
+  - variance of the OLS estimators the same.
+  - OLS estimate of the intercept the same.
+  - OLS estimate of the slope the same.
+- question: The power of the test is
+  difficulty: medium
+  correct_answer: one minus the probability of committing a type II error.
+  incorrect_answers:
+  - dependent on whether you caclulate a t or t^2 statistic.
+  - a subjective view taken by the econometrician dependent on the situation.
+  - one minus the probability of committing a type I error.
+- question: in multiple regression, the R^2 value increases whenever a regressor is
+  difficulty: medium
+  correct_answer: added unless the coefficient on the added regressor is exactly zero.
+  incorrect_answers:
+  - greater than 1.96 in absolute value.
+  - added unless there is heteroskedasticity.
+  - added.
+- question: The dummy variable trap is an example of
+  difficulty: medium
+  correct_answer: perfect multicollinearity.
+  incorrect_answers:
+  - imperfect multicollinearity.
+  - something that does not happen to university or college students.
+  - something that is of theoretical interest only.
+- question: Panel data
+  difficulty: medium
+  correct_answer: is also called longitudinal data.
+  incorrect_answers:
+  - studies a group of people at a point in time.
+  - typically uses control and treatment groups.
+  - is the same as time series data.
+- question: The sample average of the OLS residuals is
+  difficulty: medium
+  correct_answer: zero.
+  incorrect_answers:
+  - a positive number since OLS uses squares.
+  - unobservable since the population regression function is unkown.
+  - dependent on whether the explanatory variable is mostly positive or negative.
+- question: A type I error is 
+  difficulty: medium
+  correct_answer: the error you make when rejecting the null hypothesis when it is true.
+  incorrect_answers:
+  - always the same as (1 - type II) error.
+  - always 5%.
+  - the error you make when rejecting the alternative hypothesis when it is true.
+- question: studying inflation in the US from 19970 to 2006 is an example of using
+  difficulty: medium
+  correct_answer: time series data.
+  incorrect_answers:
+  - cross-sectional data.
+  - randomized controlled experiments.
+  - panel data.
+- question: the reason for including control variable sin multiple regressions is to
+  difficulty: medium
+  correct_answer: make the variables of interest no longer correlated with the error term, once the control variables are held constant.
+  incorrect_answers:
+  - reduce heteroskedasticity in the error term.
+  - increase the regression R^2.
+  - reduce imperfect multicollinearity.
+- question: For a normal distribution, the skewness and kurtosis measures are as follows
+  difficulty: medium
+  correct_answer: 0 and 3
+  incorrect_answers:
+  - 1.96 and 4
+  - 0 and 0
+  - 1 and 2
+- question: The size of the test
+  difficulty: medium
+  correct_answer: is the probability of commiting a type I error.
+  incorrect_answers:
+  - is the same as the sample size.
+  - can be greater than 1 in extreme conditions.
+  - is always equal to (1 - the power of the test).
+- question: In the  multiple regression model, the least squares estimator is derived by 
+  difficulty: medium
+  correct_answer: minimizing the sum of squared prediction mistakes.
+  incorrect_answers:
+  - forcing the smallest distance between the actual and fitted values.
+  - minimizing the absolute difference of the residuals.
+  - setting the sum of squared errors to zero.
+- question: if X_t and Y_t are cointegrated, then the OLS estimator of the coefficient in the cointegrating regression is
+  difficulty: medium
+  correct_answer: consistent.
+  incorrect_answers:
+  - BLUE.
+  - unbiased when using HAC standard errors.
+  - unbiased even in small samples.
+- question: the EG-ADF test
+  difficulty: medium
+  correct_answer: is a test for cointegration.
+  incorrect_answers:
+  - uses the ADF in the second step of its procedure.
+  - is the similar to the DF-GLF test.
+  - has as a limitation that it can only test if two variables, but not more than two, are cointegrated.
+- question: The following is not an appropriate way to tell whether two variables are cointegrated.
+  difficulty: medium
+  correct_answer: see if the two variables are integrated of the same order.
+  incorrect_answers:
+  - perform statistical tests for cointegration.
+  - use expert knowledge and economic theory.
+  - graph the series and see whether they appear to have a common stochastic trend.
+- question: To test the null hypothesis of a unit root, the ADF test
+  difficulty: medium
+  correct_answer: uses a t-statistic and a special critical value.
+  incorrect_answers:
+  - uses comlicated interative techniques.
+  - has higher power than the so-called DF-GLF test.
+  - cannot be calculated if the variable is integrated of order two or higher.
+- question: if the VAR coefficients are estimated by OLS, the number of coefficients
+  difficulty: medium
+  correct_answer: should be small relative to the sample size.
+  incorrect_answers:
+  - should not be more than 10.
+  - should be roughly the same as the sample size.
+  - is irrelevant as long as they do not exceed the sample size.
+- question: You can determine the lag lengths in a VAR
+  difficulty: medium
+  correct_answer: by using either F-tests or information criteria.
+  incorrect_answers:
+  - by using confidence intervals.
+  - with the help from econmic theory and institiutional knowledge.
+  - by using critical values from the standard normal table.
+- question: A VAR with k time series variables consists of
+  difficulty: medium
+  correct_answer: k equations, one for each variables, where the regressors in all equations are lagged values of all the variables.
+  incorrect_answers:
+  - k equations, one for each of the variables, where the regressors in all equations are current values of all the variables.
+  - a single equation where the regressors are lagged value of all the variables.
+  - k equations, one for each of the variables, where the regressors in all equations are never more than one lag of all the variables.
+- question: The biggest conceptual difference between using VARs for forecasting and using them for structural modeling is that
+  difficulty: medium
+  correct_answer: structural modeling requires very specific assumptions derived from economic theory and institutional knoledge of what is exogenous and what is not.
+  incorrect_answers:
+  - you can no longer use the information criteria to decide on the lag length.
+  - you need to use the granger causality test for structural modeling.
+  - structural modeling only allows a maximum of three equations in the VAR.
+- question: A VAR with five variables, 4 lags and constant terms for each equation will have a total of
+  difficulty: medium
+  correct_answer: 105 coefficients.
+  incorrect_answers:
+  - 100 coefficients.
+  - 84 coefficients.
+  - 21 coefficients.
+- question: Under teh VAR assumptions, the OLS estimators are
+  difficulty: medium
+  correct_answer: consistent and have a joint normal distribution in large samples.
+  incorrect_answers:
+  - BLUE.
+  - unbiased.
+  - consistent and have a joint normal distribution even in small samples.
+- question: The coefficients of the VAR are estimated by
+  difficulty: medium
+  correct_answer: estimating each of the equations by OLS.
+  incorrect_answers:
+  - panel methods.
+  - maximum likelihood.
+  - using a simultaneous estimation method such as TSLS.
+- question: One advantage of forecasts based on a VAR rather than seperately forecasting the variables involved is
+  difficulty: medium
+  correct_answer: it can hellp to make the forecasts mutually consistent.
+  incorrect_answers:
+  - you typically have knoledge of future values of at least one of the variables involved.
+  - that VAR forecasts are easier to calculate.
+  - that VAR involves panel data.
+- question: A vector autoregression
+  difficulty: medium
+  correct_answer: is a set of k time series regressions, in which the regressors are lagged values of all k series.
+  incorrect_answers:
+  - is the ADL model with an AR process in the error term.
+  - involves errors that are autocorrelated but can be written vector format.
+  - is the same as a unvariate autoregression.
+- question: Given the relationship between the two variables, the following is most likey to be exogenous
+  difficulty: medium
+  correct_answer: Australian exports and US aggregate income - US aggregate income is exogenous.
+  incorrect_answers:
+  - the inflation rate and the short term interest rate - short term interest rate is exogenous.
+  - change in inflation, lagged changes of inflation, and lags of unemployment - lags of unemployment are exogenous.
+  - US rate of inflation and increases in oil prices - oil prices are exogoneous.
+- question: The interpretation of the coefficients in a distributed lag regression as causal dynamic effects hinges on
+  difficulty: medium
+  correct_answer: the assumption that X is exogenous.
+  incorrect_answers:
+  - using GLS rather than OLS.
+  - the use of monthly rather than annual data.
+  - not having more than four lags when using quarterly data.
+- question: Ascertaining whether or not a regressor is strictly exogenous or exogenous ultimately requires all of the following with the exception of
+  difficulty: medium
+  correct_answer: use of HAC standard errors.
+  incorrect_answers:
+  - economic theory.
+  - expert judgement.
+  - institutional knowledge.
+- question: the 95% convidence interval for the dynamic multipliers should be computed by usng the estimated coefficient +/-
+  difficulty: medium
+  correct_answer: 1.96 times the HAC standard errors.
+  incorrect_answers:
+  - 1.96, since the HAC errors are standardized.
+  - 1.96 times the MFSFE.
+  - 1.64 times the HAC standard errors since the alternative hypothesis is one-sided.
+- question: A seasonal binary (or indicator or dummy) variable, in the case of monthly data,
+  difficulty: medium
+  correct_answer: is a binary variable that takes on the value of 1 for a given month and is 0 otherwise.
+  incorrect_answers:
+  - does not exist, since a month is not a season.
+  - is a variable that contains 1 during a given year and is a 0 otherwise.
+  - is a variable that has value of 1 to 12 in a given year.

@@ -1,0 +1,34 @@
+# Category 0 - Science
+---
+questions:
+- question: The following graph https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Islm.svg/1200px-Islm.svg.png
+  difficulty: medium
+  correct_answer: A
+  incorrect_answers:
+  - B
+  - C
+  - D
+- question: "In the table, diminishing marginal returns begins \n
+Input \t total product \n
+0 \t 0 \n
+1 \t 10  \n
+2 \t 35 \n
+3 \t 70 \n
+4 \t 120 \n
+5 \t 165 \n
+6 \t 175 \n
+7 \t 170 \n
+8 \t 155"
+  difficulty: medium
+  correct_answer: after the 4th unit of input.
+  incorrect_answers:
+  - after the 1st unit of input.
+  - after the 2nd unit of input
+  - after the 7th unit of input
+- question: Why might the short-run aggregate supply curve shift to the right in the long run, following a decrease in aggregate demand?
+  difficulty: easy 
+  correct_answer: Workers and firms adjust their expectations of wages and prices downward and they accept lower wages and prices.
+  incorrect_answers:
+  - Workers and firms adjust their expectations of wages and prices downward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they push for higher wages and prices.
+  - Workers and firms adjust their expectations of wages and prices upward and they accept lower wages and prices.

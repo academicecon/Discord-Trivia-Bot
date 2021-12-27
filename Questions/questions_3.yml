@@ -1,0 +1,584 @@
+# Category 3 - Intro Micro
+---
+questions:
+- question: A binding price ceiling will have which of the following consequences?
+  difficulty: medium
+  correct_answer: The quantity demanded will always exceed the quantity supplied.
+  incorrect_answers:
+  - There will be downward pressure on prices until quantity demanded equals quantity supplied.
+  - There will be upward pressure on prices until quantity demanded equals quantity supplied.
+  - There are no consequences of a binding price ceiling.
+- question: Which of the following is an accurate statement about the consequence of nonbinding price ceilings?
+  difficulty: medium
+  correct_answer:  They do not change the quantity of goods bought or sold in the legal market.
+  incorrect_answers:
+  - They prevent the seller from receiving the equilibrium price.
+  - They require the seller to advertise the product at the equilibrium price.
+  - They create a surplus in the legal market.
+- question: A binding price floor will cause quantity demanded to exceed quantity supplied?
+  difficulty: medium
+  correct_answer: 'False'
+  incorrect_answers:
+  - 'True'
+- question: A price ceiling is set above the equilibrium price. This will result in a?
+  difficulty: medium
+  correct_answer: neither shortage nor surplus
+  incorrect_answers:
+  - shortage of goods
+  - surplus of goods
+  - not surplus or shortage
+- question:  If an effective price ceiling is implemented in a market what is likely to happen to the opportunity cost of finding the good?
+  difficulty: medium
+  correct_answer: The opportunity cost will rise.
+  incorrect_answers:
+  - The opportunity cost will fall.
+  - The opportunity cost is not affected by a price ceiling
+  - The opportunity cost is higher if the good is inferior.
+- question: Why does a shortage that occurs under a binding price ceiling increase over time?
+  difficulty: medium
+  correct_answer: Demand and supply both become more elastic.
+  incorrect_answers:
+  - Demand becomes more inelastic, but supply becomes more elastic
+  - Demand and supply both become more inelastic.
+  - Demand becomes more elastic, but supply becomes more inelastic
+- question: What will happen in a market when a binding price floor is removed?
+  difficulty: medium
+  correct_answer: There will be downward pressure on the prices.
+  incorrect_answers: 
+  - The products sold will become scarcer.
+  - There will be upward pressure on the prices.
+  - The price or quantity of the product sold in the legal market will not change.
+- question: If a price floor is imposed at $15 per unit when the equilibrium market price is $12, there will be...
+  difficulty: medium
+  correct_answer: a surplus
+  incorrect_answers: 
+  - a shortage.
+  - downward pressure on prices.
+  - upward pressure on prices
+- question: An effective price floor causes a ____ of the good
+  difficulty: medium
+  correct_answer: surplus
+  incorrect_answers:
+  - shortage
+- question: Consider a market with demand function, Qd = 22-2p, Qs = 2+3p. Let there be a fixed price of 3. What is the surplus or shortage?
+  difficulty: hard
+  correct_answer: shortage of 5
+  incorrect_answers:
+  - surplus of 5
+  - surplus of 4
+  - shortage of 4
+- question: When social and private costs differ
+  difficulty: medium
+  correct_answer: there is an externality
+  incorrect_answers:
+  - there will be economic profit in the society.
+  - the society suffers from the tragedy of the commons.
+  - the government should step in and regulate, tax or subsidize the activity.
+- question: the government is better at providing public goods than the market because public goods are
+  difficulty: medium
+  correct_answer: non-excludable and non-rival.
+  incorrect_answers: 
+  - excludable and rival.
+  - rival and non-excludable.
+  - non-rival and excludable.
+- question: A roofing company decides to fix the leaky roof during your scheduled class. The noise impairs the ability of you and the others in class to learn the material. This noise is a
+  difficulty: medium
+  correct_answer: negative externality
+  incorrect_answers:
+  - positive externality
+  - common resource
+  - public good
+- question: How would you change your transportation decisions if you had to pay for the pollution (a social cost) that your vehicle creates?
+  difficulty: medium
+  correct_answer: Drive less
+  incorrect_answers:
+  - Drive more
+  - Drive same amount
+  - burn my car and house
+- question: If a government use regulations or higher taxes to force a business to take into account social costs, the business will
+  difficulty: medium
+  correct_answer: reduction pollution, higher market price
+  incorrect_answers:
+  - reduce price and cut its pollution.
+  - increase price and increase the amount of pollution.
+  - increase production and charge a lower market price.
+- question: When pollution (a negative externality) is created by firms, which of the following is NOT an effective way for the government to restore the social optimum?
+  difficulty: medium
+  correct_answer: Offer a subsidy to firms to reduce their production cost.
+  incorrect_answers:
+  - Require firms to change production techniques to reduce emissions.
+  - Levy a tax on the production of the good.
+  - Require firms to pay for the environmental damage they create.
+- question: my neighbor has a rooster that crows at the break of dawn. I like to sleep in, so I give my neighbor $100 and she sells the rooster. This solution is most consistent with
+  difficulty: medium
+  correct_answer: the Coase Theorem
+  incorrect_answers:
+  - the Laffer Principle.
+  - the externality formula.
+  - the chicken paradox.
+- question: A city wants to reduce congestion during the morning and evening rush hour without having to build any new roads. Which strategy will be most effective?
+  difficulty: medium
+  correct_answer: Dynamic congestion pricing
+  incorrect_answers:
+  - Raising vehicle registration fees.
+  - A flat-rate congestion charge.
+  - A petrol tax for all car drivers.
+- question: Which concept is most closely associated with the underproduction of goods?
+  difficulty: medium
+  correct_answer: Positive externalities
+  incorrect_answers:
+  - Common property.
+  - Free-riding.
+  - Diminishing marginal utility.
+- question: Which of the following is true of a positive externality?
+  difficulty: medium
+  correct_answer: some benefits accrue to a third party
+  incorrect_answers:
+  - Some costs are borne by a third party.
+  - The government can use taxes to move the market to the social optimum.
+  - Its existence always requires corrective measures by the government.
+- question: What are the two characteristics of a common resource good?
+  difficulty: medium
+  correct_answer: Non-excludable and rival
+  incorrect_answers:
+  - Excludable and non-rival.
+  - Non-excludable and non-rival.
+  - Excludable and rival.
+- question: Which of the following meets the definition of a public good and therefore must be provided by the public sector?
+  difficulty: medium
+  correct_answer: Tornado sirens
+  incorrect_answers:
+  - Waffles
+  - High Speed Internet
+  - Private Hospitals
+- question: If it takes even a small amount of time, energy or money to acquire then a good is
+  difficulty: easy
+  correct_answer: scarce.
+  incorrect_answers:
+  - abundant
+  - in shortage
+  - cheap
+- question: which one of these is not scarce?
+  difficulty: easy
+  correct_answer: gravity
+  incorrect_answers:
+  - a selena Gomez autographed t-shirt
+  - drinking water
+  - kangaroos
+- question: Economics is
+  difficulty: easy
+  correct_answer: the study of how people make choices
+  incorrect_answers:
+  - the study of stock trading
+  - the study of money
+  - the study of large corporations
+- question: An example of a direct negative incentive is?
+  difficulty: easy
+  correct_answer: threatening to fire those who do not perform well
+  incorrect_answers:
+  - providing a commission for sales
+  - awarding a promotion for hard work
+  - providing an orientation for new employees
+- question: A car insurance company is willing to offer accident-free drivers a discount. This is an example of
+  difficulty: easy
+  correct_answer: a positive incentive
+  incorrect_answers:
+  - a negative incentive
+  - an opportunity cost
+  - a comparative advantage
+- question: Legislation that requires children under the age of two to sit in infant seats on airplanes has made air travel safer but also more expensive for families. Which of the following is an unintended consequence of the infant safety policy?
+  difficulty: easy
+  correct_answer: many families with infants now choose to drive instead of fly
+  incorrect_answers:
+  - airlines have nowhere to store all the child seats and strollers, so many flights are delayed.
+  - airplanes can only show G-rated movies
+  - with all the infants in nappies on the flights, the smell is terrible
+- question: a new tax on petro causes a reduction in the purchase of new vehicles with poor fuel economy. This is an example of what type of incentive?
+  difficulty: easy
+  correct_answer: negative indirect
+  incorrect_answers:
+  - negative direct
+  - positive direct
+  - positive indirect
+- question: when incentives don't work as designed this is known as
+  difficulty: easy
+  correct_answer: unintended consequences
+  incorrect_answers:
+  - absolute advantage
+  - comparative advantage
+  - absolute disadvantage
+- question: rational decision-making under conditions of scarcity requires individuals to
+  difficulty: easy
+  correct_answer: understand that tradeoffs are necessary
+  incorrect_answers: 
+  - place a monetary value on everything
+  - know the prices of all goods they might buy
+  - be alert to price reductions on desired products
+- question: How are changes in opportunity cost related to decision-making behavior?
+  difficulty: easy
+  correct_answer: the lower the opportunity cost of doing activity X, the more likely activity X will be done.
+  incorrect_answers:
+  - the higher the opportunity cost of doing activity X, the more likely activity X will be done.
+  - the lower the opportunity cost of doing activity Y, the more likely activity X will be done.
+  - the higher the opportunity cost of doing activity Y, the less likely activity X will be done.
+- question: economists believe that optimal decisions are made up to the point where
+  difficulty: easy
+  correct_answer: marginal benefits are equal to marginal costs
+  incorrect_answers:
+  - marginal benefit is zero
+  - marginal cost is zero
+  - marginal benefits are greater than marginal cost
+- question: One reason that economists make assumptions when designing models is to
+  difficulty: easy
+  correct_answer: exclude variables that do not add predictive power to the model.
+  incorrect_answers:
+  - make models more like the real world.
+  - increase endogenous factors.
+  - ensure that all possible factors are included.
+- question: This term refers to the specific components that are left out of a model.
+  difficulty: easy
+  correct_answer: exogenous
+  incorrect_answers:
+  - endogenous
+  - caveat emptor
+  - ceteris paribus
+- question: Opportunity cost is evident on the production possibilities frontier (PPF) graph
+  difficulty: easy
+  correct_answer: as we move from one point on the frontier to another point on the frontier
+  incorrect_answers:
+  - as we move from the origin to any inefficient point.
+  - as we move from one unattainable point to an efficient point on the frontier.
+  - as we move from an inefficient point to the origin.
+- question: Which of the following would NOT lead to an outward shift of a future production possibilities frontier (PPF)?
+  difficulty: easy
+  correct_answer: a decline in life expectancy
+  incorrect_answers:
+  - Population growth.
+  - Increased investment today.
+  - An increase in technology.production possibilities frontier graphi
+- question: In the film, A Knight’s Tale, the peasants decide to reinvest 13 silver coins in training to become better at jousting. This reinvestment is known as what kind of good?
+  difficulty: easy
+  correct_answer: a capital good
+  incorrect_answers:
+  - consumer good
+  - an inferior good
+  - it is not a good, it is a bad
+- question: If a nation has a high unemployment rate, what will happen to the production possibilities frontier?
+  difficulty: easy
+  correct_answer: none of the above are correct
+  incorrect_answers:
+  - the national will slide down along the curve
+  - the curve will shift in
+  - the curve will shift out
+- question: the production possibilities frontier is bowed out because of
+  difficulty: easy
+  correct_answer: the law of increasing relative cost
+  incorrect_answers:
+  - the law of decreasing relative cost
+  - the fact that every point on the PPC is efficient
+  - the fact that it is easier to be inefficient in production
+- question: On the production possibilities frontier
+  difficulty: easy
+  correct_answer: reseource inputs are fixed
+  incorrect_answers:
+  - technology is constantly changing
+  - there are no trade-offs
+  - resources cannot be fully used
+- question: when someone wishes to invest in more capital goods, it is usually true that
+  difficulty: easy
+  correct_answer: she must give up some consumer goods in the present
+  incorrect_answers: 
+  - there will be fewer consumer goods available to her in the future
+  - there are no opportunity costs involved in this
+  - she will operate inefficiently
+- question: A production possibilities frontier graphically represents the maximum quantities of two products produced when all resources in the economy are being used efficiently. If an economy operates at a point inside its production possibilities frontier
+  difficulty: easy
+  correct_answer: it is utilising some resources inefficiently
+  incorrect_answers:
+  - it lacks the resources necessary to produce at full employment
+  - it does not confront the problem of scarce goods relative to unlimited wants
+  - it is impossible for an economy to operate inside its ppf
+- question: If a society saves less now than in the past, then the production possibilities frontier will over time
+  difficulty: easy
+  correct_answer: shift out but not as much as in the past
+  incorrect_answers:
+  - shift in
+  - shift out more than in the past
+  - shift in during recessions, and out during expansions
+- question: what is the opportunity cost of trivia?
+  difficulty: easy
+  correct_answer: the highed valued alternative that you gave up to prepare for and attend trivia
+  incorrect_answers:
+  - all the things that you could have done by not studying
+  - each of the questions that you miss
+  - the money you spent to study
+- question: the highest-valued, next-best alternative that must be sacrificed to attain something or satisfy a want is called
+  difficulty: easy
+  correct_answer: an opportunity cost
+  incorrect_answers:
+  - a marginal cost
+  - a financial cost
+  - a price
+- question: according to the law of comparative advantage, a particular task is performed most efficiently by an individual with the lowest
+  difficulty: easy
+  correct_answer: opportunity cost
+  incorrect_answers:
+  - wage rate
+  - net worth
+  - absolute advantage
+- question: comparative advantage implies that you will
+  difficulty: easy
+  correct_answer: produce a good where you have the lowest opportunity cost
+  incorrect_answers:
+  - produce at the highest opportunity cost
+  - produce a good using the most inputs
+  - produce a good only when demand is high
+- question: for both parties to benefit from specialization and trade, the trading parties must agree on
+  difficulty: easy
+  correct_answer: a price somewhere between their opportunity costs of production
+  incorrect_answers:
+  - a plan to not trade with other parties
+  - who has the absolute advantage in production
+  - the appropriate level of investment for the future
+- question: Suppose Alice divides her time between growing apples and raising sheep. If she discovers a new farming technique that increases the number of apples she can produce each year, then her opportunity cost of raising sheep
+  difficulty: easy
+  correct_answer: will rise
+  incorrect_answers:
+  - will fall
+  - will not be affeted
+  - will fall at first then rise
+- question: If the demand for a good rises when your income rises, the good is
+  difficulty: easy
+  correct_answer: normal
+  incorrect_answers:
+  - inferior
+  - capital
+  - awesome
+- question: suppose that the price of a Beyonce concert ticket increases from $125 to $200. What will happen to the demand curve for her concerts?
+  difficulty: easy
+  correct_answer: nothing
+  incorrect_answers:
+  - shifts to the left
+  - shifts to the right
+  - slope increases
+- question: cars and bicycles are substitutes. Which of the following is most likely to cause an increase in demand for bicylces?
+  difficulty: easy
+  correct_answer: An increase in the prices of cars
+  incorrect_answers:
+  - A decrease in the cost of the frames used in making bicycles.
+  - A decrease in the cost of the brakes used in making bicycles.
+  - A decrease in the price of bicycles.
+- question: According to the law of demand
+  difficulty: easy
+  correct_answer: price and quantity demanded move in opposite directions
+  incorrect_answers:
+  - price and quantity demanded move in the same direction.
+  - there is an inverse relationship between the quantity supplied and the price.
+  - there is a direct relationship between the quantity supplied and the price.
+- question: consider a demand curve for ground beef. We move along the demand curve when
+  difficulty: easy
+  correct_answer: only the price of ground beef changes
+  incorrect_answers:
+  - the price of hamburger buns increases
+  - when a news report comes out saying ground beef cures cancer
+  - the price of ground turkey decreases
+- question: a demand curve for a good slopes downward because
+  difficulty: easy
+  correct_answer: there is an inverse relationship between the price of a good and the quantity demanded of that good
+  incorrect_answers:
+  - as our income grows, we demand less of the good
+  - there is a dirct relationsip between the price of a good and the quantity demanded of that good
+  - when the price of a good increases, we demand more of it
+- question: if the demand for a good decreases when your income increases, then the good is
+  difficulty: easy
+  correct_answer: an inferior good
+  incorrect_answers:
+  - an economic bad
+  - a normal good
+  - expensive
+- question: consider a demand curve for pork. If the price of beef decreases while the price of pork stays the same, then I would consume less pork because
+  difficulty: easy
+  correct_answer: beef and pork are substitutes
+  incorrect_answers:
+  - beef if an inferior good
+  - beef is a normal good
+  - beef and pork are complements
+- question: Consider a demand curve for tortilla chips. If the price of salsa decreases while the price of tortilla chips stays the same, then I would consume more tortilla chips because
+  difficulty: easy
+  correct_answer: tortilla chips and salsa are complements
+  incorrect_answers:
+  - salsa is an inferior good
+  - salsa is a normal good
+  - tortilla chips and salsa are substitutes
+- question: Which of the following is most likely to shift the demand curve for a good to the right?
+  difficulty: easy
+  correct_answer: An increase in the price of a substitute good.
+  incorrect_answers:
+  - A decrease in the cost of production of the good.
+  - The introduction of a new technology that lowers the cost of producing the good.
+  - A decrease in the price of the good
+- question: If an increase in the price of peaches reduces the demand for cream, this indicates that peaches and cream are
+  difficulty: easy
+  correct_answer: complements
+  incorrect_answers:
+  - normal goods
+  - inferior goods
+  - substitutes
+- question: consider a demand curve for potato chips. We move along the demand curve when
+  difficulty: easy
+  correct_answer: the price of potato chips increases
+  incorrect_answers:
+  - the price of Doritos decreases
+  - the price of dip increases
+  - when a news report indicates that fried potatoes cause cancer
+- question: Consider a demand curve for Oreos. If the price of milk decreases while the price of Oreos stays the same, then I would consume more Oreos because
+  difficulty: easy
+  correct_answer: Oreos and milk are complements
+  incorrect_answers:
+  - milk is an inferior good
+  - milk is a normal good
+  - Oreas and milk are substitutes
+- question: Wine and cheese are complement goods because they are consumed together. What would we expect to happen to the equilibrium quantity of cheese if the price of wine increased and all else is held constant?
+  difficulty: easy
+  correct_answer: it would decrease because of a demand shift
+  incorrect_answers:
+  - it would increase because of a supply shift
+  - it would increase because of a demand shift
+  - it would decrease because of a supply shift
+- question: Consider a supply curve for raw lumber (wood). If, all of the sudden there is a huge fire that burns half of all trees in the world, then the supply curve for raw lumber
+  difficulty: easy
+  correct_answer: shifts to the left
+  incorrect_answers:
+  - shifts to the right
+  - does not shift at all
+  - becomes downward sloping
+- question: If there is an excess supply of a good, we expect that
+  difficulty: easy
+  correct_answer: the price of the good will fall
+  incorrect_answers:
+  - the price of the good will rise
+  - the supply curve for the good will shift to the left
+  - the supply curve for the good will shift to the right
+- question: Which of the following is most likely to increase the equilibrium price charged and increase the equilibrium quantity of customers at Dunkin Donuts, located downtown?
+  difficulty: easy
+  correct_answer: an increase in prices at starbucks, a competitor one block away
+  incorrect_answers:
+  - A new technology that makes it cheaper to mass-produce donuts.
+  - An increase in the rent paid by Dunkin Donuts.
+  - Starbucks decides to renovate, expand and offer a better experience at lower prices.
+- question: "Suppose you are told that the equilibrium price of petrol has decreased, while the equilibrium quantity of petrol has increased. You are also told that either the demand changed or supply changed, but not both. Which of the following must have occurred?"
+  difficulty: easy
+  correct_answer: supply increased
+  incorrect_answers:
+  - supply decreased
+  - demand increased
+  - demand decreased
+- question: If the cost of the components used to make the Wii suddenly increases what will happen to the demand curve for Wii’s?
+  difficulty: easy
+  correct_answer: nothing happens to the demand for the Wii
+  incorrect_answers:
+  - shifts to the elft
+  - it becomes upward sloping
+  - shifts to the right
+- question: according to the law of supply
+  difficulty: easy
+  correct_answer: price and quantity supplied move in the same direction
+  incorrect_answers:
+  - cost of production and quantity supplied move in the same direction.
+  - cost of production and quantity supplied move in opposite directions.
+  - price and quantity supplied move in opposite directions.
+- question: "The market for ice cream has the following demand and supply curves:\n
+P = 132 – 3Q (demand) \n
+P = 12 + 3Q (supply) \n
+What is the equilibrium price and quantity?"
+  difficulty: medium
+  correct_answer: q = 20, p = 72
+  incorrect_answers:
+  - q = 10, p = 102
+  - q = 10, p = 42
+  - q = 30, p = 102
+- question: If demand decreases and at the same time supply increases what will happen to equilibrium price and quantity?
+  difficulty: easy
+  correct_answer: price goes down, quantity we can't tell
+  incorrect_answers:
+  - price goes down, quantity goes up
+  - price goes down, quantity goes down
+  - price goes up, quantity we can't tell
+- question: The most expensive private high schools in Melbourne cost close to $40,000 a year to attend. That is MORE than it costs to attend most universities. What explains why the tuition is so high at these schools?
+  difficulty: easy
+  correct_answer: The demand is quite high and the supply is quite low.
+  incorrect_answers:
+  - There is very high demand.
+  - There is a limited supply of highly prestigious schools.
+  - The demand is low but supply is large.
+- question: Assume the demand for sugar decreases and the supply of sugar decreases. Which of the following outcomes is certain to occur?
+  difficulty: easy
+  correct_answer: the equilibrium quantity of sugar will fall
+  incorrect_answers:
+  - The equilibrium price of sugar will rise.
+  - The equilibrium quantity of sugar will rise.
+  - The equilibrium price of sugar will fall.
+- question: If a 5% decrease in price results in 7% increase in quantity demanded of apples, then we know definitely that
+  difficulty: easy
+  correct_answer: demand for apples is relatively elastic
+  incorrect_answers:
+  - apples are normal goods
+  - the price of apples was too high
+  - the price of apples should be reduced further
+- question: demand is more elastic if
+  difficulty: easy
+  correct_answer: the good has many substitutes
+  incorrect_answers:
+  - the good is expensive
+  - it is needed now
+  - the price of the good does not matter
+- question: When Heavenly Cookies prices its sugar cookies at $1.00, it sells 75 cookies. It lowers the price to $0.50 and sells 100 cookies. Its total revenue ________ because the price elasticity of demand for sugar cookies is ________.
+  difficulty: medium
+  correct_answer: fell, inelastic
+  incorrect_answers:
+  - rose, elastic
+  - rose, inelastic
+  - fell, elastic
+- question: once-in-a-lifetime experiences have
+  difficulty: easy
+  correct_answer: inelastic demand
+  incorrect_answers:
+  - elastic demand
+  - elastic demand for poor people, but inelastic demand if you are wealthy
+  - inelastic demand for wealthy people, but elastic demand if you are poor
+- question: A producer knows that the price elasticity for his product is -0.5. He wants to increase quantity demanded by 30 percent. By what percentage does he need to change the price?
+  difficulty: medium
+  correct_answer: "-60%"
+  incorrect_answers:
+  - "10%"
+  - "-6%"
+  - "-9.5"
+- question: Assume that the market for pencils is in equilibrium and that demand is very price elastic. The popularity of digital tablets and electronic pens increases and demand for pencils declines. The equilibrium change in quantity demanded is
+  difficulty: easy
+  correct_answer: relatively large
+  incorrect_answers:
+  - relatively small
+  - zero
+  - proportional to the shift in demand
+- question: If the elasticity of demand for Good A is -3, a 33% decrease in quantity demanded of Good A results from
+  difficulty: easy
+  correct_answer: an 11% increase in the price of Good A
+  incorrect_answers:
+  - a 99% decrease in the price of good A
+  - a 99% increase in the price of good A
+  - an 11% decrease in the price of Good A
+- question: If the percentage change in the quantity consumed of pizza is 8% and the percentage change in the income is 2%, what is the income elasticity of demand for pizza?
+  difficulty: easy
+  correct_answer: "4"
+  incorrect_answers:
+  - "-.25"
+  - .25
+  - "-4"
+- question: "Howard buys 5 suits a year when he earns $70,000. When his income increases to $200,000, he buys 15 suits a year. Using the midpoint method, his income elasticity of demand for suits is"
+  difficulty: medium
+  correct_answer: "1.04"
+  incorrect_answers:
+  - ".96"
+  - "-1.04"
+  - "-.96"
+  
